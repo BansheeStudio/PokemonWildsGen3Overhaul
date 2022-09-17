@@ -8,7 +8,7 @@ Please check frequently to see if there has been an update.
 Trailer Video https://youtu.be/cstgN3laG6o
 Install Guide Video https://youtu.be/ELR6yj89p0o
 
-![alt text](https://raw.githubusercontent.com/BansheeStudio/BansheeStudio.github.io/main/Backup%20Content/gen3preview.png)
+![alt text](https://raw.githubusercontent.com/BansheeStudio/BansheeStudio.github.io/main/Backup%20Content/gen3preview2.png)
 
 If this is an issue for you then report it to the devs
 at https://discord.gg/bv5bPpDMY8 #report-bugs
