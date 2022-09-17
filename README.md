@@ -10,9 +10,9 @@ lasted update on 2022/09/08 (YYYY/MM/DD)
 ![alt text](https://raw.githubusercontent.com/BansheeStudio/BansheeStudio.github.io/main/Backup%20Content/gen3preview2.png)
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/ELR6yj89p0o/0.jpg)](https://youtu.be/ELR6yj89p0o")
-Install Guide Video 
+←click to watch the Install Guide Video 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/cstgN3laG6o/0.jpg)](https://youtu.be/cstgN3laG6o")
-Trailer Video
+←click to watch the Trailer Video
 
 If this is an issue for you then report it to the devs
 at https://discord.gg/bv5bPpDMY8 #report-bugs
