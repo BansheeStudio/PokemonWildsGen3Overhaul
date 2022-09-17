@@ -6,7 +6,7 @@ Currently the pack is still in development and is subject to change as new updat
 Please check frequently to see if there has been an update.
 
 Trailer Video https://youtu.be/cstgN3laG6o
-Install Guide https://youtu.be/ELR6yj89p0o
+Install Guide Video https://youtu.be/ELR6yj89p0o
 
 --Install guide for all versions--
 
