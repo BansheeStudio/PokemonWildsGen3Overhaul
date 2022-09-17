@@ -10,11 +10,6 @@ Install Guide Video https://youtu.be/ELR6yj89p0o
 
 ![alt text](https://bansheestudio.github.io/images/Gen3showcase.png)
 
---Install guide for all versions--
-
-Unpack everything from here into the game directory (where the .exe is).
-Yes even those textures that are outside the mods folder they
-patch missing textures.
 If this is an issue for you then report it to the devs
 at https://discord.gg/bv5bPpDMY8 #report-bugs
 
