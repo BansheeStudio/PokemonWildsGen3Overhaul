@@ -8,7 +8,7 @@ Please check frequently to see if there has been an update.
 Trailer Video https://youtu.be/cstgN3laG6o
 Install Guide Video https://youtu.be/ELR6yj89p0o
 
-https://bansheestudio.github.io/images/Gen3showcase.png
+![alt text](https://bansheestudio.github.io/images/Gen3showcase.png)
 
 --Install guide for all versions--
 
