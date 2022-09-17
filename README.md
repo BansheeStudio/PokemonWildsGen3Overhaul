@@ -4,6 +4,8 @@ This total-converison mod aims to replace all of wilds' assets with those of the
 Currently the pack is still in development and is subject to change as new updates are released. 
 
 Please check frequently to see if there has been an update.
+Mod version 2.3 (Fixed Waterfall and BattleBG)
+lasted update on 2022/09/08 (YYYY/MM/DD)
 
 Trailer Video https://youtu.be/cstgN3laG6o
 Install Guide Video https://youtu.be/ELR6yj89p0o
