@@ -24,10 +24,16 @@ Main Dev - PlushBanshee
 !🎀プラッシュ🦄バンシー🎀!#7615
 https://discord.gg/rDnaBfp
 
-Contributor - AG1k
+Main Dev - AG1k
 Thank you for the FR/LG edits, edits to savanna tiles as well as  Deep Desert/Snow tile edits, 
 and some of the other tiles in the pack. They really do help blend it and replace some of Hoenn's less detailed tiles 
 as well as the optional edits for fans of FR/LG. Also for Porting sounds and music from the gen 3 games.
+
+Main Contributor - darkwolfgaming91
+Thanks for all the edits of the mod the new textures looks great and is very much appreciated
+
+Main Contributor - Yuuki#2424
+Thanks for adding in cut content & the new shiny sprite so i matches the rest of the mod its a nice touch
 
 Contributor - TheBoss42x
 Thanks for the help with the stressful tiles not fitting & reporting them
@@ -39,10 +45,3 @@ It is a great sprite and really fits in well with the game.
 
 Contributor - Danieru
 Thanks for the new holes and OW sprites recolour it's a great job and really improves the world
-
-Contributor - darkwolfgaming91
-Thank for the new PC edits and House Edits they really shed some colour and light to make things
-feel nice and new
-
-Contributor - Yuuki
-Thanks for the new shiny sprite so i matches the rest of the mod its a nice touch
