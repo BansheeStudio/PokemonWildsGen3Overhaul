@@ -4,8 +4,8 @@ This total-converison mod aims to replace all of wilds' assets with those of the
 Currently the pack is still in development and is subject to change as new updates are released. 
 
 Please check frequently to see if there has been an update.
-Mod version 2.3 (Community Contributor Update)
-lasted update on 2022/09/08 (YYYY/MM/DD)
+Mod version 2.5 (Community Contributor Update V2)
+lasted update on 2022/10/06 (YYYY/MM/DD)
 
 ![alt text](https://raw.githubusercontent.com/BansheeStudio/BansheeStudio.github.io/main/Backup%20Content/gen3preview2.png)
 
