@@ -1,4 +1,11 @@
 !!!PLEASE READ THIS!!! THIS VERSION IS FOR WILDS 0.8 NOT 0.9 SAVES MIGHT NOT BE COMPATIBLE WITH 0.9
+AS IT ADDS IN CUT CONTENT SUCH AS MISSING MONS & MIGHT NOT EVEN ALLOW SAVES TO WORK ON 0.9 THERE WILL
+HOW EVER BE A 0.9 VERSION OF THIS MOD AND WE ALSO PLAN TO LEAVE THIS UP AS A CLASSIC VERSION FOR USERS
+THAT STILL PLAY ON 0.8
+
+Any issues please do submit them on this github page and our staff will get around to answering then
+when we have time also please understand this is a freetime project we do in our freetime so there
+might be delay with responding but we will try our best to answer and fix issues
 
 This total-converison mod aims to replace all of wilds' assets with those of the Gen 3 games. 
 Currently the pack is still in development and is subject to change as new updates are released. 
