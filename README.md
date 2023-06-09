@@ -34,8 +34,6 @@ There are also optional texures/files that you can choose from, which include op
 FR/LG as well as other optional stuff by AG1k,TheBoss42x and PlushBanshee as well as textures from older versions of this mod!
 
 Main Dev - PlushBanshee
-!🎀プラッシュ🦄バンシー🎀!#7615
-https://discord.gg/rDnaBfp
 
 Main Dev - AG1k
 Thank you for the FR/LG edits, edits to savanna tiles as well as  Deep Desert/Snow tile edits, 
