@@ -54,6 +54,9 @@ Thanks for the OW sprite colouring as it helps us make it closer to finishing th
 Main Contributor - Weegee Doll
 Thank you for the eevee OW sprites and the red trainer sprites your work helps us get closer to a gen 3 looking game
 
+Main Contributor - Fantactic
+Fixed the white indoor roof bug thanks again as well as colouring OW spritess & Tile fixes
+
 Contributor - TheBoss42x
 Thanks for the help with the stressful tiles not fitting & reporting them
 as well as the edits you have contributed to the project like the optional bag and menus.
@@ -63,7 +66,5 @@ Thanks for the PKMN Sapphire sprite and the permission to recolour it.
 It is a great sprite and really fits in well with the game.
 
 Contributor - Danieru
-Thanks for the new holes and OW sprites recolour it's a great job and really improves the world
+Thanks for the new holes and OW sprites recolour it's a great job and really improves the world & the half of the Dig Tiles
 
-Contributor - Fantactic
-Fixed the white indoor roof bug thanks again as well as colouring OW spritess
