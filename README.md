@@ -4,7 +4,7 @@ HOW EVER BE A 0.9 VERSION OF THIS MOD AND WE ALSO PLAN TO LEAVE THIS UP AS A CLA
 THAT STILL PLAY ON 0.8
 
 DOWNLAOD THE LATIST VERSION HERE
-https://github.com/BansheeStudio/PokemonWilds0.8Gen3Overhaul/releases
+https://github.com/BansheeStudio/PokemonWildsGen3Overhaul/releases
 
 Any issues please do submit them on this github page and our staff will get around to answering then
 when we have time also please understand this is a freetime project we do in our freetime so there
