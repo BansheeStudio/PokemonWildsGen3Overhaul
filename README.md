@@ -3,8 +3,8 @@ AS IT ADDS IN CUT CONTENT SUCH AS MISSING MONS & MIGHT NOT EVEN ALLOW SAVES TO W
 HOW EVER BE A 0.9 VERSION OF THIS MOD AND WE ALSO PLAN TO LEAVE THIS UP AS A CLASSIC VERSION FOR USERS
 THAT STILL PLAY ON 0.8
 
-FOR THE REAL MOD LOOK IN THE FOLDER FOR THE BEST WILDS MOD EVER!
-THE OTHER WAS A APRIL FOOLS JOKES TITLE THE WORST WILDS MOD EVER!
+DOWNLAOD THE LATIST VERSION HERE
+https://github.com/BansheeStudio/PokemonWilds0.8Gen3Overhaul/releases
 
 Any issues please do submit them on this github page and our staff will get around to answering then
 when we have time also please understand this is a freetime project we do in our freetime so there
