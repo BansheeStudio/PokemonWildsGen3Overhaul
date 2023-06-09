@@ -64,3 +64,6 @@ It is a great sprite and really fits in well with the game.
 
 Contributor - Danieru
 Thanks for the new holes and OW sprites recolour it's a great job and really improves the world
+
+Contributor - Fantactic
+Fixed the white indoor roof bug thanks again as well as colouring OW spritess
