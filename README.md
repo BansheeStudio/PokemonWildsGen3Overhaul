@@ -42,6 +42,12 @@ Thanks for all the edits of the mod the new textures looks great and is very muc
 Main Contributor - Yuuki#2424
 Thanks for adding in cut content & the new shiny sprite so i matches the rest of the mod its a nice touch
 
+Main Contributor - DuctilePeer
+Thanks for the OW sprite colouring as it helps us make it closer to finishing the OW sprites
+
+Main Contributor - Weegee Doll
+Thank you for the eevee OW sprites and the red trainer sprites you work helps us get closer to a gen 3 looking game
+
 Contributor - TheBoss42x
 Thanks for the help with the stressful tiles not fitting & reporting them
 as well as the edits you have contributed to the project like the optional bag and menus.
@@ -52,10 +58,3 @@ It is a great sprite and really fits in well with the game.
 
 Contributor - Danieru
 Thanks for the new holes and OW sprites recolour it's a great job and really improves the world
-
-Contributor - DuctilePeer
-Thanks for the OW sprite colouring as it helps us make it closer to finishing the OW sprites
-
-Contributor - Weegee Doll
-Thank you for the eevee OW sprites and the red trainer sprites you work helps us get closer to a gen 3 looking game
-
