@@ -24,6 +24,9 @@ lasted update on 2022/10/06 (YYYY/MM/DD)
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/cstgN3laG6o/0.jpg)](https://youtu.be/cstgN3laG6o")
 ←click to watch the Trailer Video
 
+WE NEED YOU'RE HELP IF YOU CAN DO RECOLOURING PLEASE
+DM PlushBanshee OR AG1K AS WE ARE STILL MISSING BATTLE SPRITES COLOUR IN GEN 3
+
 If this is an issue for you then report it to the devs
 at https://discord.gg/bv5bPpDMY8 #report-bugs
 
