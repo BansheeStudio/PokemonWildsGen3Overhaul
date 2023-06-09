@@ -52,3 +52,10 @@ It is a great sprite and really fits in well with the game.
 
 Contributor - Danieru
 Thanks for the new holes and OW sprites recolour it's a great job and really improves the world
+
+Contributor - DuctilePeer
+Thanks for the OW sprite colouring as it helps us make it closer to finishing the OW sprites
+
+Contributor - Weegee Doll
+Thank you for the eevee OW sprites and the red trainer sprites you work helps us get closer to a gen 3 looking game
+
