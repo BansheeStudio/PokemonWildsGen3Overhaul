@@ -42,14 +42,14 @@ as well as the optional edits for fans of FR/LG. Also for Porting sounds and mus
 Main Contributor - darkwolfgaming91
 Thanks for all the edits of the mod the new textures looks great and is very much appreciated
 
-Main Contributor - Yuuki#2424
+Main Contributor - Yuuki
 Thanks for adding in cut content & the new shiny sprite so i matches the rest of the mod its a nice touch
 
 Main Contributor - DuctilePeer
 Thanks for the OW sprite colouring as it helps us make it closer to finishing the OW sprites
 
 Main Contributor - Weegee Doll
-Thank you for the eevee OW sprites and the red trainer sprites you work helps us get closer to a gen 3 looking game
+Thank you for the eevee OW sprites and the red trainer sprites your work helps us get closer to a gen 3 looking game
 
 Contributor - TheBoss42x
 Thanks for the help with the stressful tiles not fitting & reporting them
