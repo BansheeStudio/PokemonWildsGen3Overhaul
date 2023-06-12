@@ -32,8 +32,9 @@ ADD YOUR WORK AS WELL AS ADD YOU TO THIS LIST OF CREDITS
 If this is an issue for you then report it to the devs
 at https://discord.gg/bv5bPpDMY8 #report-bugs
 
-There are also optional texures/files that you can choose from, which include options from
-FR/LG as well as other optional stuff by AG1k,TheBoss42x and PlushBanshee as well as textures from older versions of this mod!
+There are also optional mods that you can choose from, which include options from
+FR/LG as well as other optional stuff just find the folder with ! at the start and moves it contents
+in the same location as the games .exe
 
 Main Dev - PlushBanshee
 Started this whole project
