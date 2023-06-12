@@ -14,8 +14,13 @@ This total-converison mod aims to replace all of wilds' assets with those of the
 Currently the pack is still in development and is subject to change as new updates are released. 
 
 Please check frequently to see if there has been an update.
-Mod version 2.5 (Community Contributor Update V2)
-lasted update on 2022/10/06 (YYYY/MM/DD)
+Please check releases for latest version
+
+WE NEED YOU'RE HELP - RECOLOURING OR RESPRITES FOR BATTLE SPRITES
+IF YOU WANT TO CONTRIBUTE THEN GREAT WE NEED GEN 3 PKMN BATTLE SPRITES
+IN THE !EARLY ACCESS FOLDER THERE IS FOLDER FOR EACH POKEMON ANY FOLDERS WITHOUT A .TXT FILE
+MEANS IT'S STILL MISSING NEW TEXTURES IF YOU HAVE MADE ANY PLEASE CONTACT PLUSHBASNHEE & WE ALL
+ADD YOUR WORK AS WELL AS ADD YOU TO THIS LIST OF CREDITS
 
 ![alt text](https://raw.githubusercontent.com/BansheeStudio/BansheeStudio.github.io/main/Backup%20Content/gen3preview2.png)
 
@@ -24,14 +29,12 @@ lasted update on 2022/10/06 (YYYY/MM/DD)
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/cstgN3laG6o/0.jpg)](https://youtu.be/cstgN3laG6o")
 ←click to watch the Trailer Video
 
-WE NEED YOU'RE HELP IF YOU CAN DO RECOLOURING PLEASE
-DM PlushBanshee OR AG1K AS WE ARE STILL MISSING BATTLE SPRITES COLOUR IN GEN 3
-
 If this is an issue for you then report it to the devs
 at https://discord.gg/bv5bPpDMY8 #report-bugs
 
-There are also optional texures/files that you can choose from, which include options from
-FR/LG as well as other optional stuff by AG1k,TheBoss42x and PlushBanshee as well as textures from older versions of this mod!
+There are also optional mods that you can choose from, which include options from
+FR/LG as well as other optional stuff just find the folder with ! at the start and moves it contents
+in the same location as the games .exe
 
 Main Dev - PlushBanshee
 Started this whole project
