@@ -44,7 +44,7 @@ Thank you for the FR/LG edits, edits to savanna tiles as well as  Deep Desert/Sn
 and some of the other tiles in the pack. They really do help blend it and replace some of Hoenn's less detailed tiles 
 as well as the optional edits for fans of FR/LG. Also for Porting sounds and music from the gen 3 games.
 
-Main Contributor - darkwolfgaming91
+Main Contributor - Darkwolfgaming91
 Thanks for all the edits of the mod the new textures looks great and is very much appreciated
 
 Main Contributor - Yuuki
@@ -57,7 +57,7 @@ Main Contributor - Weegee Doll
 Thank you for the eevee OW sprites and the red trainer sprites your work helps us get closer to a gen 3 looking game
 
 Main Contributor - Fantactic
-Fixed the white indoor roof bug thanks again as well as colouring OW spritess & Tile fixes
+Fixed the white indoor roof bug thanks again as well as colouring OW spritess & Tile fixes & finishing the hole tiles
 
 Contributor - TheBoss42x
 Thanks for the help with the stressful tiles not fitting & reporting them
@@ -68,5 +68,5 @@ Thanks for the PKMN Sapphire sprite and the permission to recolour it.
 It is a great sprite and really fits in well with the game.
 
 Contributor - Danieru
-Thanks for the new holes and OW sprites recolour it's a great job and really improves the world & the half of the Dig Tiles
+Thanks for the new holes tiles and OW sprites recolour it's a great job and really improves the world & the half of the Dig Tiles
 
