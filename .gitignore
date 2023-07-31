@@ -1,0 +1,13 @@
+# gitignore to prevent the game files themselves from being pushed
+
+app/
+runtime/
+*.exe
+*.ico
+*.sav
+*.zip
+pokewilds-dev.bat
+README.txt
+settings.txt
+
+pokewilds.jar
