@@ -73,3 +73,7 @@ It is a great sprite and really fits in well with the game.
 Contributor - Danieru
 Thanks for the new holes tiles and OW sprites recolour it's a great job and really improves the world & the half of the Dig Tiles
 
+Contributor - Jet (clumsyc4)
+Thank you Jet for doing a handful of people it really helps to get the pokemon OW sprites upto date to look like gen 3
+
+
