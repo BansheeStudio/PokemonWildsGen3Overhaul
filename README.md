@@ -67,7 +67,7 @@ Thank you for allow to use of your Transparent Sprite Backgrounds
 it has sped up so much work
 
 Main Contributor - Takies
-Thank you for the OW sprite re-colouring it fit so well into the Gen 3 world sytle
+Thank you for the OW sprite re-colouring it fit so well into the Gen 3 world style
 
 Contributor - TheBoss42x
 Thanks for the help with the stressful tiles not fitting & reporting them
