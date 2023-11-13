@@ -1,4 +1,3 @@
-	db EVOLVE_ITEM, WATER_STONE, ARTICUNO
 	db 0 ; no more evolutions
 	db 1, PECK
 	db 1, LEER

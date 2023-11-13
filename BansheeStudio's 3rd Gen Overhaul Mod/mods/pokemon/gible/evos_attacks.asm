@@ -1,5 +1,4 @@
 	db EVOLVE_LEVEL, 24, GABITE
-	db EVOLVE_ITEM, THUNDERSTONE, RAIKOU
 	db 0 ; no more evolutions
 	db 1, SAND_TOMB
 	db 1, TACKLE

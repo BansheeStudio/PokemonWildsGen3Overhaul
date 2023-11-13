@@ -1,5 +1,4 @@
 	db EVOLVE_LEVEL, 37, DUSCLOPS
-	db EVOLVE_ITEM, DUSK_STONE, DEOXYS	
 	db 0 ; no more evolutions
 	db 1, ASTONISH
 	db 1, LEER

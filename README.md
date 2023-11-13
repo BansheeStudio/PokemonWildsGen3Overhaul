@@ -62,6 +62,13 @@ Thank you for the eevee OW sprites and the red trainer sprites your work helps u
 Main Contributor - Fantactic
 Fixed the white indoor roof bug thanks again as well as colouring OW spritess & Tile fixes & finishing the hole tiles
 
+Main Contributor - MochaFox
+Thank you for allow to use of your Transparent Sprite Backgrounds
+it has sped up so much work
+
+Main Contributor - Takies
+Thank you for the OW sprite re-colouring it fit so well into the Gen 3 world sytle
+
 Contributor - TheBoss42x
 Thanks for the help with the stressful tiles not fitting & reporting them
 as well as the edits you have contributed to the project like the optional bag and menus.
@@ -76,4 +83,6 @@ Thanks for the new holes tiles and OW sprites recolour it's a great job and real
 Contributor - Jet (clumsyc4)
 Thank you Jet for doing a handful of people it really helps to get the pokemon OW sprites upto date to look like gen 3
 
+Contributor - Emma Dreamcore
+For the send retexture it looks much nicer now thank you
 
