@@ -69,6 +69,9 @@ it has sped up so much work
 Main Contributor - Takies
 Thank you for the OW sprite re-colouring it fit so well into the Gen 3 world style
 
+Contributor - SombrAbsol
+Thanks for the HQ music now all music will sounds as if they where played from a AGB
+
 Contributor - TheBoss42x
 Thanks for the help with the stressful tiles not fitting & reporting them
 as well as the edits you have contributed to the project like the optional bag and menus.
