@@ -1,4 +1,5 @@
 	db EVOLVE_ITEM, FIRE_STONE, ARCANINE
+	db EVOLVE_ITEM, SUN_STONE, ENTEI
 	db 0 ; no more evolutions
 	db 1, EMBER
 	db 1, LEER

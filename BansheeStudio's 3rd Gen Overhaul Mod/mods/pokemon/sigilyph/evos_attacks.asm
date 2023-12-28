@@ -1,3 +1,5 @@
+	db EVOLVE_ITEM, SUN_STONE, HO-OH
+	db EVOLVE_ITEM, DUSK_STONE, LUGIA
 	db 0 ; no more evolutions
 	db 1, GUST
 	db 1, CONFUSION

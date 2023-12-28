@@ -1,4 +1,5 @@
 	db EVOLVE_LEVEL, 30, DRAGONAIR
+	db EVOLVE_ITEM, WATER_STONE, SUICUNE	
 	db 0 ; no more evolutions
 	db 1, WRAP
 	db 1, LEER

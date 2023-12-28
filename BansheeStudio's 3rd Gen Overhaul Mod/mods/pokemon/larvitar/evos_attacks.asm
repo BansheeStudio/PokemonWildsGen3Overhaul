@@ -1,4 +1,5 @@
 	db EVOLVE_LEVEL, 30, PUPITAR
+	db EVOLVE_ITEM, THUNDER_STONE, ZAPDOS	
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, LEER
