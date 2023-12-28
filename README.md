@@ -59,9 +59,6 @@ Thanks for the OW sprite colouring as it helps us make it closer to finishing th
 Main Contributor - Weegee Doll
 Thank you for the eevee OW sprites and the red trainer sprites your work helps us get closer to a gen 3 looking game
 
-Main Contributor - Fantactic
-Fixed the white indoor roof bug thanks again as well as colouring OW spritess & Tile fixes & finishing the hole tiles
-
 Main Contributor - MochaFox
 Thank you for allow to use of your Transparent Sprite Backgrounds
 it has sped up so much work
@@ -69,8 +66,11 @@ it has sped up so much work
 Main Contributor - Takies
 Thank you for the OW sprite re-colouring it fit so well into the Gen 3 world style
 
-Contributor - SombrAbsol
+Main Contributor - SombrAbsol
 Thanks for the HQ music now all music will sounds as if they where played from a AGB
+
+Contributor - Fantactic
+Fixed the white indoor roof bug thanks again as well as colouring OW spritess & Tile fixes & finishing the hole tiles
 
 Contributor - TheBoss42x
 Thanks for the help with the stressful tiles not fitting & reporting them
