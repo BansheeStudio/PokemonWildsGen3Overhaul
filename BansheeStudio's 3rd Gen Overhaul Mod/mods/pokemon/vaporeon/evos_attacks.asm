@@ -1,27 +1,23 @@
+	db EVOLVE_ITEM, ICE_STONE, SUICUNE
 	db 0 ; no more evolutions
-	db 0, WATER_GUN
-	db 1, WATER_GUN
-	db 1, COVET
-	db 1, SWIFT
-	db 1, BITE
-	db 1, COPYCAT
-	db 1, BATON_PASS
-	db 1, TAKE_DOWN
-	db 1, CHARM
-	db 1, DOUBLE_EDGE
-	db 1, HELPING_HAND
-	db 1, TACKLE
-	db 1, GROWL
 	db 1, TAIL_WHIP
-	db 5, SAND_ATTACK
-	db 10, QUICK_ATTACK
-	db 15, BABY_DOLL_EYES
-	db 20, HAZE
-	db 25, WATER_PULSE
-	db 30, AURORA_BEAM
-	db 35, AQUA_RING
-	db 40, MUDDY_WATER
-	db 45, ACID_ARMOR
-	db 50, HYDRO_PUMP
-	db 55, LAST_RESORT
+	db 1, WATER_GUN
+	db 4, SAND_ATTACK
+	db 7, QUICK_ATTACK
+	db 10, SWIFT
+	db 13, BITE
+	db 16, CHARM
+	db 19, BUBBLEBEAM
+	db 22, WATER_GUN
+	db 25, ACID_ARMOR
+	db 28, MUDDY_WATER
+	db 31, SURF
+	db 34, BUBBLEBEAM
+	db 37, AURORA_BEAM
+	db 40, ACID_ARMOR
+	db 43, ICE_BEAM
+	db 46, MIST
+	db 49, HYPER_VOICE
+	db 52, HYDRO_PUMP
+	db 56, BLIZZARD
 	db 0 ; no more level-up moves

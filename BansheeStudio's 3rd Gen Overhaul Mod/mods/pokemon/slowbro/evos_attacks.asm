@@ -1,20 +1,22 @@
+	db EVOLVE_STONE, DAWN_STONE, SLOWKING
 	db 0 ; no more evolutions
-	db 1, WITHDRAW
-	db 1, TACKLE
 	db 1, CURSE
-	db 1, GROWL
-	db 1, WATER_GUN
-	db 9, YAWN
-	db 12, CONFUSION
-	db 15, DISABLE
-	db 18, WATER_PULSE
-	db 21, HEADBUTT
-	db 24, ZEN_HEADBUTT
-	db 27, AMNESIA
-	db 30, SURF
-	db 33, SLACK_OFF
-	db 36, PSYCHIC
-	db 41, PSYCH_UP
-	db 46, RAIN_DANCE
-	db 51, HEAL_PULSE
+	db 1, TACKLE
+	db 4, WATER_GUN
+	db 7, CONFUSION
+	db 10, HEADBUTT
+	db 13, CURSE
+	db 16, WATER_GUN
+	db 19, CONFUSION
+	db 22, FLAMETHROWER
+	db 25, CURSE
+	db 28, BUBBLEBEAM
+	db 31, PSYBEAM
+	db 34, FLAMETHROWER
+	db 37, CURSE
+	db 40, BUBBLEBEAM
+	db 43, PSYCHIC
+	db 46, FLAMETHROWER
+	db 49, PSYCHIC
+	db 52, HYDRO_PUMP
 	db 0 ; no more level-up moves

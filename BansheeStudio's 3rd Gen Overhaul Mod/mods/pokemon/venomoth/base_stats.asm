@@ -1,9 +1,9 @@
 	db VENOMOTH ; 49
 
-	db  70,  65,  60,  90,  90,  75
-  ;  hp  atk  def  spd sat sdf
+	db  70,  65,  60,  90,  115,  100
+	;  hp  atk  def  spd sat sdf
 
-	db BUG, POISON ; type
+	db BUG, PSYCHIC ; type
 	db 75 ; catch rate
 	db 158 ; base exp
 	db NO_ITEM, NO_ITEM

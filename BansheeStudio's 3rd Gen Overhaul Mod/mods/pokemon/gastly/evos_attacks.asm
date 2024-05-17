@@ -1,17 +1,21 @@
 	db EVOLVE_LEVEL, 25, HAUNTER
-	db 0 ; no more evolutions
 	db 1, LICK
 	db 1, CONFUSE_RAY
 	db 4, HYPNOSIS
-	db 8, MEAN_LOOK
-	db 12, PAYBACK
-	db 16, SPITE
-	db 20, CURSE
-	db 24, HEX
-	db 28, NIGHT_SHADE
-	db 32, SUCKER_PUNCH
-	db 36, DARK_PULSE
+	db 7, ACID
+	db 10, ABSORB
+	db 13, CONFUSE_RAY
+	db 16, SHADOW_BALL
+	db 19, HYPNOSIS
+	db 22, SLUDGE
+	db 25, NIGHT_SHADE
+	db 28, CURSE
+	db 31, HYPNOSIS
+	db 34, MEGA_DRAIN
+	db 37, SLUDGE_BOMB
 	db 40, SHADOW_BALL
-	db 44, DESTINY_BOND
-	db 48, DREAM_EATER
+	db 43, HYPNOSIS
+	db 46, GIGA_DRAIN
+	db 49, SLUDGE_BOMB
+	db 52, SHADOW_BALL
 	db 0 ; no more level-up moves

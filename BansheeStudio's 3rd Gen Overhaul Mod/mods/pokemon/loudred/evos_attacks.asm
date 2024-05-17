@@ -1,17 +1,22 @@
-	db EVOLVE_LEVEL, 40, EXPLOUD
+	db EVOLVE_LEVEL, 35, EXPLOUD
 	db 0 ; no more evolutions
-	db 0, BITE
-	db 1, BITE
-	db 1, ASTONISH
+	db 1, THUNDERSHOCK
 	db 1, POUND
-	db 1, ECHOED_VOICE
-	db 1, HOWL
-	db 15, REST
-	db 15, SLEEP_TALK
-	db 23, STOMP
-	db 29, ROAR
-	db 36, SUPERSONIC
-	db 43, UPROAR
-	db 50, SCREECH
-	db 57, HYPER_VOICE
+	db 4, GROWL
+	db 7, SUPERSONIC
+	db 10, SMOKESCREEN
+	db 13, STOMP
+	db 16, SHOCK_WAVE
+	db 19, GROWTH
+	db 22, SCREECH
+	db 25, THUNDERPUNCH
+	db 28, SWIFT
+	db 31, THUNDERBOLT
+	db 34, BODY_SLAM
+	db 37, HYPER_VOICE
+	db 40, UPROAR
+	db 43, THUNDERPUNCH
+	db 46, THUNDERBOLT
+	db 49, BODY_SLAM
+	db 52, HYPER_VOICE
 	db 0 ; no more level-up moves

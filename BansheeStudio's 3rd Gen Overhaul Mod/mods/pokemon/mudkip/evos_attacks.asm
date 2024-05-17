@@ -2,17 +2,21 @@
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, GROWL
-	db 3, WATER_GUN
-	db 6, ROCK_SMASH
-	db 9, ROCK_THROW
-	db 12, PROTECT
-	db 15, SUPERSONIC
-	db 18, WATER_PULSE
-	db 21, ROCK_SLIDE
-	db 24, TAKE_DOWN
-	db 27, AMNESIA
-	db 30, SURF
-	db 33, SCREECH
-	db 36, ENDEAVOR
-	db 39, HYDRO_PUMP
+	db 4, MUD_SLAP
+	db 7, WATER_GUN
+	db 10, SUPERSONIC
+	db 13, ROCK_THROW
+	db 16, BUBBLEBEAM
+	db 19, DIG
+	db 22, AMNESIA
+	db 25, EARTH_POWER
+	db 28, BUBBLEBEAM
+	db 31, ROCK_SLIDE
+	db 34, EARTHQUAKE
+	db 37, WATERFALL
+	db 40, EARTH_POWER
+	db 43, BUBBLEBEAM
+	db 46, ROCK_SLIDE
+	db 49, EARTHQUAKE
+	db 52, WATERFALL
 	db 0 ; no more level-up moves

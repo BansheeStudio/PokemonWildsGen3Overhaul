@@ -1,19 +1,17 @@
 	db 0 ; no more evolutions
-	db 1, LIFE_DEW
-	db 1, LASER_FOCUS
-	db 1, DISABLE
-	db 1, CONFUSION
-	db 1, SWIFT
-	db 8, ANCIENTPOWER
-	db 16, PSYCHO_CUT
-	db 24, SAFEGUARD
-	db 32, AMNESIA
-	db 40, AURA_SPHERE
-	db 48, PSYCHIC
+	db 1, AURA_SPHERE
+	db 1, BARRIER
+	db 1, AMNESIA
+	db 11, SHADOW_BALL
+	db 22, PSYBEAM
+	db 33, PSYCH_UP
+	db 44, PSYCHIC
+	db 51, SHADOW_BALL
+	db 51, AURA_SPHERE
+	db 51, RECOVER
+	db 51, PSYCHIC
 	db 56, POWER_SWAP
-	db 56, GUARD_SWAP
-	db 64, MIST
-	db 72, PSYSTRIKE
-	db 80, RECOVER
-	db 88, FUTURE_SIGHT
-	db 0 ; no more level-up moves
+	db 60, PSYSTRIKE
+	db 64, PSYBEAM
+	db 68, FUTURE_SIGHT
+	db 70, AURA_SPHERE

@@ -1,3 +1,0 @@
-	db MIRROR_COAT
-	db NIGHT_SLASH
-	db SLASH

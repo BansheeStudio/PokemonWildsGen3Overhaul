@@ -1,3 +1,4 @@
+	db EVOLVE_ITEM, DUSK_STONE, LUGIA
 	db 0 ; no more evolutions
 	db 1, REFLECT_TYPE
 	db 1, POISON_STING

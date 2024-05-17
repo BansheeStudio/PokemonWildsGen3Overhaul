@@ -1,19 +1,22 @@
-	db EVOLVE_ITEM, ICE_STONE, MAMOSWINE
+	db EVOLVE_LEVEL, 40, MAMOSWINE
 	db 0 ; no more evolutions
-	db 0, ICE_FANG
-	db 1, ICE_FANG
-	db 1, ANCIENTPOWER
-	db 1, TACKLE
 	db 1, MUD_SLAP
-	db 1, POWDER_SNOW
-	db 1, FLAIL
-	db 15, ICE_SHARD
-	db 20, MIST
-	db 25, ENDURE
-	db 30, ICY_WIND
-	db 37, AMNESIA
-	db 44, TAKE_DOWN
-	db 51, EARTHQUAKE
-	db 58, BLIZZARD
-	db 65, THRASH
+	db 1, TACKLE
+	db 4, POWDER_SNOW
+	db 7, CURSE
+	db 10, DIG
+	db 13, SCARY_FACE
+	db 16, AMNESIA
+	db 19, HORN_ATTACK
+	db 22, ICE_PUNCH
+	db 25, DIG
+	db 28, CURSE
+	db 31, ROCK_SLIDE
+	db 34, DOUBLE_EDGE
+	db 37, ICE_PUNCH
+	db 40, EARTHQUAKE
+	db 43, ROCK_SLIDE
+	db 46, DOUBLE_EDGE
+	db 49, ICE_PUNCH
+	db 52, EARTHQUAKE
 	db 0 ; no more level-up moves

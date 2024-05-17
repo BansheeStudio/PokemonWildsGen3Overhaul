@@ -1,5 +1,0 @@
-	db BIND
-	db CURSE
-	db MIRROR_COAT
-	db RECOVER
-	db TICKLE

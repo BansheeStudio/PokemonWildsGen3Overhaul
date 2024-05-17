@@ -1,9 +1,9 @@
 	db BAYLEEF ; 153
 
-	db  60,  62,  80,  60,  63,  80
+	db  60,  82,  80,  60,  43,  80
   ;  hp  atk  def  spd sat sdf
 
-	db GRASS, GRASS ; type
+	db GRASS, FAIRY ; type
 	db 45 ; catch rate
 	db 142 ; base exp
 	db NO_ITEM, NO_ITEM

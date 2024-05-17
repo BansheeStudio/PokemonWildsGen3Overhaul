@@ -1,18 +1,22 @@
 	db EVOLVE_ITEM, DUSK_STONE, HONCHKROW
 	db 0 ; no more evolutions
 	db 1, PECK
-	db 1, ASTONISH
-	db 5, PURSUIT
-	db 11, HAZE
-	db 15, WING_ATTACK
-	db 21, NIGHT_SHADE
-	db 25, ASSURANCE
-	db 31, TAUNT
-	db 35, FAINT_ATTACK
-	db 41, MEAN_LOOK
-	db 45, FOUL_PLAY
-	db 50, TAILWIND
-	db 55, SUCKER_PUNCH
-	db 61, TORMENT
-	db 65, QUASH
+	db 1, GUST
+	db 4, SHARPEN
+	db 7, NIGHT_SHADE
+	db 10, FEINT_ATTACK
+	db 13, HAZE
+	db 16, SHARPEN
+	db 19, NIGHT_SHADE
+	db 22, PURSUIT
+	db 25, FEINT_ATTACK
+	db 28, WING_ATTACK
+	db 31, DARK_PULSE
+	db 34, AIR_SLASH
+	db 37, NIGHT_SLASH
+	db 40, DRILL_PECK
+	db 43, MEAN_LOOK
+	db 46, NIGHT_SHADE
+	db 49, AIR_CUTTER
+	db 52, DRILL_PECK
 	db 0 ; no more level-up moves

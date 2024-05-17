@@ -1,18 +1,22 @@
-	db EVOLVE_LEVEL, 29, KROKOROK
+	db EVOLVE_LEVEL, 24, KROKOROK
 	db 0 ; no more evolutions
-	db 1, POWER_TRIP
-	db 1, LEER
-	db 3, SAND_ATTACK
-	db 6, HONE_CLAWS
-	db 9, SAND_TOMB
-	db 12, SCARY_FACE
-	db 15, BITE
-	db 18, TORMENT
-	db 21, DIG
-	db 24, SWAGGER
-	db 27, CRUNCH
-	db 30, SANDSTORM
-	db 33, FOUL_PLAY
-	db 36, EARTHQUAKE
-	db 39, THRASH
+	db 1, MUD_SLAP
+	db 1, TACKLE
+	db 4, SAND_ATTACK
+	db 7, BITE
+	db 10, SCARY_FACE
+	db 13, SHARPEN
+	db 16, DIG
+	db 19, LEER
+	db 22, BITE
+	db 25, SCARY_FACE
+	db 28, SHARPEN
+	db 31, STRENGTH
+	db 34, CRUNCH
+	db 37, DIG
+	db 40, SCARY_FACE
+	db 43, SHARPEN
+	db 46, DOUBLE_EDGE
+	db 49, CRUNCH
+	db 52, EARTHQUAKE
 	db 0 ; no more level-up moves

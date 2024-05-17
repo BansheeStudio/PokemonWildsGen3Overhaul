@@ -1,7 +1,7 @@
 	db DEWGONG ; 87
 
-	db  90,  70,  80,  70,  70,  95
-  ;  hp  atk  def  spd sat sdf
+	db  90,  45,  80,  70,  95,  120
+	;  hp  atk  def  spd sat sdf
 
 	db WATER, ICE ; type
 	db 75 ; catch rate

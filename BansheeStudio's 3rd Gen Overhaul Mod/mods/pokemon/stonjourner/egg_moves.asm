@@ -1,2 +1,0 @@
-	db ANCIENT_POWER
-	db CURSE

@@ -1,7 +1,7 @@
 	db PARASECT ; 47
 
-	db  60,  95,  80,  30,  60,  80
-  ;  hp  atk  def  spd sat sdf
+	db  120,  120,  100,  30,  45,  100
+ 	;  hp  atk  def  spd sat sdf
 
 	db BUG, GRASS ; type
 	db 75 ; catch rate

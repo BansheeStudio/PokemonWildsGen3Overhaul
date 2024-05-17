@@ -1,9 +1,9 @@
 	db ELECTIVIRE ; 466
 
-	db  75,  123,  67,  95,  95,  85
-  ;  hp  atk  def  spd sat sdf
+	db  75,  135,  55,  90,  75,  110
+	;  hp  atk  def  spd  sat  sdf
 
-	db ELECTRIC, ELECTRIC ; type
+	db ELECTRIC, FIGHTING ; type
 	db 30 ; catch rate
 	db 243 ; base exp
 	db NO_ITEM, NO_ITEM

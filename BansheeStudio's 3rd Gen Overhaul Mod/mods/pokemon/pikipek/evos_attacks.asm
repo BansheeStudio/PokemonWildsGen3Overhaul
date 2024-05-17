@@ -1,16 +1,22 @@
 	db EVOLVE_LEVEL, 14, TRUMBEAK
 	db 0 ; no more evolutions
 	db 1, PECK
-	db 3, GROWL
-	db 7, ECHOED_VOICE
-	db 9, ROCK_SMASH
-	db 13, SUPERSONIC
-	db 15, PLUCK
-	db 19, ROOST
-	db 21, FURY_ATTACK
-	db 25, SCREECH
-	db 27, DRILL_PECK
-	db 31, BULLET_SEED
-	db 33, FEATHER_DANCE
-	db 37, HYPER_VOICE
+	db 1, GROWL
+	db 4, TACKLE
+	db 7, ROCK_SMASH
+	db 10, SHARPEN
+	db 13, PECK
+	db 16, TACKLE
+	db 19, FURY_ATTACK
+	db 22, WING_ATTACK
+	db 25, ROCK_SMASH
+	db 28, SHARPEN
+	db 31, SEED_BOMB
+	db 34, HORN_ATTACK
+	db 37, DRILL_PECK
+	db 40, SCREECH
+	db 43, SHARPEN
+	db 46, SEED_BOMB
+	db 49, HORN_ATTACK
+	db 52, DRILL_PECK
 	db 0 ; no more level-up moves

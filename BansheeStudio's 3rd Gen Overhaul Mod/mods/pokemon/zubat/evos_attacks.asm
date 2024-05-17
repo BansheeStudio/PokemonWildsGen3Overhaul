@@ -1,16 +1,20 @@
 	db EVOLVE_LEVEL, 22, GOLBAT
-	db 0 ; no more evolutions
-	db 1, ABSORB
+	db 1, LEECH_LIFE
 	db 1, SUPERSONIC
+	db 4, POISON_POWDER
 	db 5, ASTONISH
-	db 10, MEAN_LOOK
-	db 15, POISON_FANG
-	db 20, QUICK_GUARD
-	db 25, AIR_CUTTER
-	db 30, BITE
-	db 35, HAZE
-	db 40, VENOSHOCK
-	db 45, CONFUSE_RAY
-	db 50, AIR_SLASH
-	db 55, LEECH_LIFE
+	db 8, WING_ATTACK
+	db 11, BITE
+	db 14, SLUDGE
+	db 17, AIR_CUTTER
+	db 20, CONFUSE_RAY
+	db 23, POISON_JAB
+	db 26, WING_ATTACK
+	db 29, BITE
+	db 32, AIR_SLASH
+	db 35, LEECH_LIFE
+	db 38, POISON_JAB
+	db 41, WING_ATTACK
+	db 44, CONFUSE_RAY
+	db 47, TOXIC
 	db 0 ; no more level-up moves

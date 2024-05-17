@@ -1,17 +1,24 @@
 	db 0 ; no more evolutions
-	db 1, SWEET_KISS
 	db 1, LICK
 	db 1, POUND
-	db 1, POWDER_SNOW
-	db 1, COPYCAT
-	db 12, CONFUSION
-	db 16, COVET
-	db 20, SING
-	db 24, FAKE_TEARS
-	db 28, ICE_PUNCH
-	db 34, PSYCHIC
-	db 40, LOVELY_KISS
-	db 46, MEAN_LOOK
-	db 52, PERISH_SONG
-	db 58, BLIZZARD
+	db 4, POWDER_SNOW
+	db 7, CONFUSION
+	db 10, SWEET_KISS
+	db 13, SING
+	db 16, ICY_WIND
+	db 19, ATTRACT
+	db 22, LOVELY_KISS
+	db 25, PSYBEAM
+	db 28, ICE_BEAM
+	db 31, SWEET_KISS
+	db 34, FREEZE_DRY
+	db 37, ICE_PUNCH
+	db 40, PSYCHIC
+	db 43, MEAN_LOOK
+	db 46, PSYBEAM
+	db 49, FAKE_TEARS
+	db 52, BLIZZARD
+	db 54, FREEZE_DRY
+	db 57, PSYCHIC
+	db 60, PERISH_SONG
 	db 0 ; no more level-up moves

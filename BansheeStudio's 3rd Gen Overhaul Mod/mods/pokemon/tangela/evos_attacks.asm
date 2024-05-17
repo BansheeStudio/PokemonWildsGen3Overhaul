@@ -1,0 +1,21 @@
+	db 0 ; no more evolutions
+	db 1, ABSORB
+	db 1, ANCIENTPOWER
+	db 4, VINE_WHIP
+	db 7, COTTON_SPORE
+	db 10, IRON_DEFENSE
+	db 13, GROWTH
+	db 16, STUN_SPORE
+	db 19, ANCIENTPOWER
+	db 22, MEGA_DRAIN
+	db 25, IRON_DEFENSE
+	db 28, GROWTH
+	db 31, GLARE
+	db 34, ANCIENTPOWER
+	db 37, GIGA_DRAIN
+	db 40, IRON_DEFENSE
+	db 43, GROWTH
+	db 46, GLARE
+	db 49, POWER_GEM
+	db 52, GIGA_DRAIN
+	db 0 ; no more level-up moves

@@ -1,20 +1,24 @@
 	db 0 ; no more evolutions
-	db 1, CRUSH_CLAW
+	db 1, SAND_ATTACK
 	db 1, SCRATCH
 	db 1, DEFENSE_CURL
-	db 1, POISON_STING
-	db 1, SAND_ATTACK
 	db 9, ROLLOUT
-	db 12, FURY_CUTTER
+	db 10, FALSE_SWIPE
+	db 11, DIG
+	db 13, FURY_SWIPES
 	db 15, RAPID_SPIN
-	db 18, BULLDOZE
-	db 21, SWIFT
-	db 26, FURY_SWIPES
-	db 31, SAND_TOMB
-	db 36, SLASH
-	db 41, DIG
-	db 46, GYRO_BALL
-	db 51, SWORDS_DANCE
-	db 56, SANDSTORM
-	db 61, EARTHQUAKE
+	db 17, HORN_ATTACK
+	db 19, FALSE_SWIPE
+	db 22, DIG
+	db 22, SLASH
+	db 24, BODY_SLAM
+	db 30, EARTHQUAKE
+	db 30, FALSE_SWIPE
+	db 32, POISON_JAB
+	db 34, ROLLOUT
+	db 36, DEFENSE_CURL
+	db 38, BODY_SLAM
+	db 40, EARTHQUAKE
+	db 40, FALSE_SWIPE
+	db 42, SLASH
 	db 0 ; no more level-up moves

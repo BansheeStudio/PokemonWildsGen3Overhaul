@@ -1,7 +1,7 @@
 	db PARAS ; 46
 
-	db  35,  70,  55,  25,  45,  55
-  ;  hp  atk  def  spd sat sdf
+	db  65,  83,  65,  25,  45,  65
+	;  hp  atk  def  spd sat sdf
 
 	db BUG, GRASS ; type
 	db 190 ; catch rate

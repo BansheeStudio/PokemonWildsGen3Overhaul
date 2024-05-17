@@ -1,21 +1,17 @@
-	db NIDORINA ; 30
+	db NIDORINA ; 030
 
-	db  70,  62,  67,  56,  55,  55
-  ;  hp  atk  def  spd sat sdf
+	db  70,  55,  67,  56,  62,  55
+	;   hp  atk  def  spd  sat  sdf
 
 	db POISON, POISON ; type
 	db 120 ; catch rate
 	db 128 ; base exp
-	db NO_ITEM, NO_ITEM
+	db NO_ITEM ; items
 	db GENDER_F100 ; gender ratio
 	db 100 ; unknown 1
 	db 20 ; step cycles to hatch
 	db 5 ; unknown 2
-	INCBIN "gfx/pokemon/nidorina/front.dimensions
-	dw NULL, NULL ; unused (beta front/back pics)
+	INCBIN "gfx/pokemon/nidorina/front.dimensions"
+	db 0, 0, 0, 0 ; padding
 	db GROWTH_MEDIUM_SLOW ; growth rate
-	dn EGG_MONSTER, EGG_FIELD ; egg groups
-
-	; tm/hm learnset
-	tmhm THIEF, THUNDER, THUNDERBOLT, SHOCK_WAVE, ROCK_SMASH, SUNNY_DAY, AERIAL_ACE, SHADOW_CLAW, EARTH_POWER, STOMPING_TANTRUM, BLIZZARD, ICE_BEAM, STRENGTH, FACADE, HIDDEN_POWER, ROUND, CUT, SNORE, ECHOED_VOICE, FRUSTRATION, RETURN, SUPER_FANG, ATTRACT, CONFIDE, DOUBLE_TEAM, HELPING_HAND, PROTECT, SLEEP_TALK, SUBSTITUTE, SWAGGER, SLUDGE_BOMB, POISON_JAB, VENOSHOCK, TOXIC, REFLECT, REST, IRON_TAIL, WATER_PULSE, RAIN_DANCE, ENDURE, BODY_SLAM, FOCUS_ENERGY, CRUNCH, DIG, BEAT_UP, CHARM, VENOM_DRENCH, TOXIC_SPIKES
-	; end
+	dn EGG_FIELD ; egg groups

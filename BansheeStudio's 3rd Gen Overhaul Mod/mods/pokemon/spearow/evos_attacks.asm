@@ -1,15 +1,20 @@
 	db EVOLVE_LEVEL, 20, FEAROW
-	db 0 ; no more evolutions
 	db 1, PECK
-	db 1, GROWL
-	db 4, LEER
-	db 8, PURSUIT
-	db 11, FURY_ATTACK
-	db 15, AERIAL_ACE
-	db 18, MIRROR_MOVE
-	db 22, ASSURANCE
-	db 25, AGILITY
-	db 29, FOCUS_ENERGY
-	db 32, ROOST
-	db 36, DRILL_PECK
+	db 5, LEER
+	db 7, FURY_ATTACK
+	db 10, PURSUIT
+	db 10, FALSE_SWIPE
+	db 14, WING_ATTACK
+	db 18, FALSE_SWIPE
+	db 20, FALSE_SWIPE
+	db 22, DRILL_PECK
+	db 26, SCREECH
+	db 30, THIEF
+	db 30, FALSE_SWIPE
+	db 34, DRILL_PECK
+	db 38, FALSE_SWIPE
+	db 40, FALSE_SWIPE
+	db 42, SCREECH
+	db 46, THIEF
+	db 50, DRILL_PECK
 	db 0 ; no more level-up moves

@@ -9,7 +9,7 @@
     db POOCHYENA 100 ; Base form(s) (MON_NAME for base species, then chance).
 
     db SAVANNA ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
-    db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
+    db SAVANNA ; Biome(s) in which aggressive groups might appear (NONE for no groups).
     db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
@@ -25,7 +25,7 @@
     db 0 ; Build (always able on FIGHTING).
     db 0 ; Charm (always able on FAIRY).
     db 0 ; Repel (always able on POISON).
-    db 0 ; Attack (always able on DARK).
+    db 1 ; Attack (always able on DARK).
     db 0 ; Teleport (always able on PSYCHIC).
     db 0 ; Headbutt.
     db 0 ; Ride.
@@ -36,8 +36,8 @@
 
     db 0 ; Swim-only movement.
     db 0 ; Flee from player.
-    db 0 ; Lunge at player.
-    db 2 ; Aggression level (0 = never aggro, 1 = normal, 2 = always aggro).
+    db 1 ; Lunge at player.
+    db 1 ; Aggression level (0 = never aggro, 1 = normal, 2 = always aggro).
 
     ; Overworld sprite properties.
 

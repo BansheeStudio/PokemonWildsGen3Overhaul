@@ -1,15 +1,102 @@
-	db EVOLVE_ITEM, LEAF_STONE, CELEBI
-	db EVOLVE_ITEM, DAWN_STONE, MEW
-	db EVOLVE_ITEM, SHINY_STONE, JIRACHI
 	db 0 ; no more evolutions
 	db 1, SKETCH
+	db 2, SKETCH
+	db 3, SKETCH
+	db 4, SKETCH
+	db 5, SKETCH
+	db 6, SKETCH
+	db 7, SKETCH
+	db 8, SKETCH
+	db 9, SKETCH
+	db 10, SKETCH
 	db 11, SKETCH
+	db 12, SKETCH
+	db 13, SKETCH
+	db 14, SKETCH
+	db 15, SKETCH
+	db 16, SKETCH
+	db 17, SKETCH
+	db 18, SKETCH
+	db 19, SKETCH
+	db 20, SKETCH
 	db 21, SKETCH
+	db 22, SKETCH
+	db 23, SKETCH
+	db 24, SKETCH
+	db 25, SKETCH
+	db 26, SKETCH
+	db 27, SKETCH
+	db 28, SKETCH
+	db 29, SKETCH
+	db 30, SKETCH
 	db 31, SKETCH
+	db 32, SKETCH
+	db 33, SKETCH
+	db 34, SKETCH
+	db 35, SKETCH
+	db 36, SKETCH
+	db 37, SKETCH
+	db 38, SKETCH
+	db 39, SKETCH
+	db 40, SKETCH
 	db 41, SKETCH
+	db 42, SKETCH
+	db 43, SKETCH
+	db 44, SKETCH
+	db 45, SKETCH
+	db 46, SKETCH
+	db 47, SKETCH
+	db 48, SKETCH
+	db 49, SKETCH
+	db 50, SKETCH
 	db 51, SKETCH
+	db 52, SKETCH
+	db 53, SKETCH
+	db 54, SKETCH
+	db 55, SKETCH
+	db 56, SKETCH
+	db 57, SKETCH
+	db 58, SKETCH
+	db 59, SKETCH
+	db 60, SKETCH
 	db 61, SKETCH
+	db 62, SKETCH
+	db 63, SKETCH
+	db 64, SKETCH
+	db 65, SKETCH
+	db 66, SKETCH
+	db 67, SKETCH
+	db 68, SKETCH
+	db 69, SKETCH
+	db 70, SKETCH
 	db 71, SKETCH
+	db 72, SKETCH
+	db 73, SKETCH
+	db 74, SKETCH
+	db 75, SKETCH
+	db 76, SKETCH
+	db 77, SKETCH
+	db 78, SKETCH
+	db 79, SKETCH
+	db 80, SKETCH
 	db 81, SKETCH
+	db 82, SKETCH
+	db 83, SKETCH
+	db 84, SKETCH
+	db 85, SKETCH
+	db 86, SKETCH
+	db 87, SKETCH
+	db 88, SKETCH
+	db 89, SKETCH
+	db 90, SKETCH
 	db 91, SKETCH
+	db 92, SKETCH
+	db 93, SKETCH
+	db 94, SKETCH
+	db 95, SKETCH
+	db 96, SKETCH
+	db 97, SKETCH
+	db 98, SKETCH
+	db 99, SKETCH
+	db 100, SKETCH
 	db 0 ; no more level-up moves

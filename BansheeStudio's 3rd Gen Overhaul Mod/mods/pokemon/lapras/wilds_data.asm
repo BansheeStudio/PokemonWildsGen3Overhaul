@@ -1,4 +1,4 @@
-    db DEFAULT ; Display name (DEFAULT for default name).
+    db Kyogre ; Display name (DEFAULT for default name).
 
     db 131 ; Dex number.
     db <A smart and kindhearted Pokémon, it glides across the surface of the sea while its beautiful song echoes around it.> ; Dex entry.

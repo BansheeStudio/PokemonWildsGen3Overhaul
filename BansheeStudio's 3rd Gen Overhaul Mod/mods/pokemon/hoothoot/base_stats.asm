@@ -1,21 +1,17 @@
 	db HOOTHOOT ; 163
 
-	db  60,  30,  30,  50,  36,  56
-  ;  hp  atk  def  spd sat sdf
+	db  60,  50,  30,  50,  30,  56
+	;   hp  atk  def  spd  sat  sdf
 
-	db NORMAL, FLYING ; type
+	db FLYING, GHOST ; type
 	db 255 ; catch rate
 	db 52 ; base exp
-	db NO_ITEM, NO_ITEM
+	db NO_ITEM ; items
 	db GENDER_F50 ; gender ratio
 	db 100 ; unknown 1
 	db 15 ; step cycles to hatch
 	db 5 ; unknown 2
-	INCBIN "gfx/pokemon/hoothoot/front.dimensions
-	dw NULL, NULL ; unused (beta front/back pics)
+	INCBIN "gfx/pokemon/hoothoot/front.dimensions"
+	db 0, 0, 0, 0 ; padding
 	db GROWTH_MEDIUM_FAST ; growth rate
-	dn EGG_FLYING, EGG_FLYING ; egg groups
-
-	; tm/hm learnset
-	tmhm THIEF, HEAT_WAVE, SUNNY_DAY, SKY_ATTACK, FLY, AERIAL_ACE, DEFOG, ROOST, TAILWIND, SHADOW_BALL, HYPER_VOICE, UPROAR, FACADE, HIDDEN_POWER, ROUND, SNORE, ECHOED_VOICE, FRUSTRATION, RETURN, ATTRACT, CONFIDE, DOUBLE_TEAM, PROTECT, PSYCH_UP, RECYCLE, SLEEP_TALK, SUBSTITUTE, SWAGGER, WORK_UP, TOXIC, DREAM_EATER, PSYCHIC, ZEN_HEADBUTT, CALM_MIND, MAGIC_COAT, REFLECT, REST, STEEL_WING, RAIN_DANCE, ENDURE, SCREECH, SWIFT, AGILITY, AIR_SLASH, AMNESIA, NASTY_PLOT, DUAL_WINGBEAT, HURRICANE, STORED_POWER, IMPRISON
-	; end
+	dn EGG_FLYING ; egg groups

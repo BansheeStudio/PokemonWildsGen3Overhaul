@@ -1,3 +1,4 @@
+	db EVOLVE_LEVEL, 45, GOLEM
 	db EVOLVE_ITEM, MOON_STONE, GOLEM
 	db 0 ; no more evolutions
 	db 1, TACKLE

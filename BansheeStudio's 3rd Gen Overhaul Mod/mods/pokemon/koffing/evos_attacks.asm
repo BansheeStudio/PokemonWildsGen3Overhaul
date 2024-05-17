@@ -1,18 +1,22 @@
-	db EVOLVE_LEVEL, 35, WEEZING
+	db EVOLVE_LEVEL, 30, WEEZING
 	db 0 ; no more evolutions
 	db 1, POISON_GAS
 	db 1, TACKLE
-	db 4, SMOG
-	db 8, SMOKESCREEN
-	db 12, CLEAR_SMOG
-	db 16, ASSURANCE
-	db 20, SLUDGE
-	db 24, HAZE
+	db 4, ACID
+	db 7, SMOG
+	db 10, HEADBUTT
+	db 13, POISON_POWDER
+	db 16, SLUDGE
+	db 19, BODY_SLAM
+	db 22, CURSE
+	db 25, TOXIC
 	db 28, SELFDESTRUCT
-	db 32, SLUDGE_BOMB
-	db 36, TOXIC
-	db 40, BELCH
-	db 44, EXPLOSION
-	db 48, MEMENTO
-	db 52, DESTINY_BOND
+	db 31, CURSE
+	db 34, TOXIC
+	db 37, SLUDGE_BOMB
+	db 40, EXPLOSION
+	db 43, CURSE
+	db 46, TOXIC
+	db 49, SLUDGE_BOMB
+	db 52, EXPLOSION
 	db 0 ; no more level-up moves

@@ -1,18 +1,21 @@
 	db 0 ; no more evolutions
-	db 0, SUBMISSION
-	db 1, SUBMISSION
-	db 1, CIRCLE_THROW
-	db 1, MIND_READER
-	db 1, DYNAMICPUNCH
-	db 1, BUBBLEBEAM
-	db 1, RAIN_DANCE
-	db 1, BODY_SLAM
-	db 1, EARTH_POWER
-	db 1, HYDRO_PUMP
-	db 1, BELLY_DRUM
-	db 1, DOUBLE_EDGE
-	db 1, WATER_GUN
 	db 1, HYPNOSIS
-	db 1, POUND
-	db 1, MUD_SHOT
+	db 1, DOUBLESLAP
+	db 4, WATERFALL
+	db 7, MUD_SLAP
+	db 10, HYPNOSIS
+	db 13, POUND
+	db 16, WATERFALL
+	db 19, SWIFT
+	db 22, VITAL_THROW
+	db 25, HYPNOSIS
+	db 28, BODY_SLAM
+	db 31, WATERFALL
+	db 34, VITAL_THROW
+	db 37, HYPNOSIS
+	db 40, BODY_SLAM
+	db 43, WATERFALL
+	db 46, VITAL_THROW
+	db 49, HYPNOSIS
+	db 52, BODY_SLAM
 	db 0 ; no more level-up moves

@@ -1,9 +1,9 @@
 	db RAMPARDOS ; 409
 
-	db  97,  165,  60,  58,  65,  50
-  ;  hp  atk  def  spd sat sdf
+	db  97,  165,  60,  65,  50,  58
+	;  hp  atk  def  spd sat sdf
 
-	db ROCK, ROCK ; type
+	db ROCK, FIGHTING ; type
 	db 45 ; catch rate
 	db 173 ; base exp
 	db NO_ITEM, NO_ITEM

@@ -1,9 +1,9 @@
 	db WHISMUR ; 293
 
 	db  64,  51,  23,  28,  51,  23
-  ;  hp  atk  def  spd sat sdf
+	;  hp  atk  def  spd sat sdf
 
-	db NORMAL, NORMAL ; type
+	db NORMAL, ELECTRIC ; type
 	db 190 ; catch rate
 	db 48 ; base exp
 	db NO_ITEM, NO_ITEM

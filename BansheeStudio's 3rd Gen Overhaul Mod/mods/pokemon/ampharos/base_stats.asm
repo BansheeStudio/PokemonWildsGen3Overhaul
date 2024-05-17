@@ -1,21 +1,17 @@
 	db AMPHAROS ; 181
 
-	db  90,  75,  85,  55,  115,  90
-  ;  hp  atk  def  spd sat sdf
+	db  110,  55,  85,  55,  115,  90
+	;   hp  atk  def  spd  sat  sdf
 
-	db ELECTRIC, ELECTRIC ; type
+	db ELECTRIC, ROCK ; type
 	db 45 ; catch rate
-	db 230 ; base exp
-	db NO_ITEM, NO_ITEM
+	db 255 ; base exp
+	db NO_ITEM ; items
 	db GENDER_F50 ; gender ratio
 	db 100 ; unknown 1
 	db 20 ; step cycles to hatch
 	db 5 ; unknown 2
-	INCBIN "gfx/pokemon/ampharos/front.dimensions
-	dw NULL, NULL ; unused (beta front/back pics)
+	INCBIN "gfx/pokemon/ampharos/front.dimensions"
+	db 0, 0, 0, 0 ; padding
 	db GROWTH_MEDIUM_SLOW ; growth rate
-	dn EGG_MONSTER, EGG_FIELD ; egg groups
-
-	; tm/hm learnset
-	tmhm SIGNAL_BEAM, BRUTAL_SWING, FLING, OUTRAGE, DRAGON_PULSE, THUNDER, THUNDERBOLT, WILD_CHARGE, THUNDER_PUNCH, VOLT_SWITCH, SHOCK_WAVE, ELECTROWEB, CHARGE_BEAM, MAGNET_RISE, THUNDER_WAVE, FOCUS_PUNCH, FOCUS_BLAST, BRICK_BREAK, POWER_UP_PUNCH, ROCK_SMASH, FIRE_PUNCH, BULLDOZE, GIGA_IMPACT, HYPER_BEAM, STRENGTH, FACADE, HIDDEN_POWER, ROUND, SNORE, ECHOED_VOICE, FRUSTRATION, RETURN, AFTER_YOU, ATTRACT, CONFIDE, DOUBLE_TEAM, HEAL_BELL, LASER_FOCUS, PROTECT, SAFEGUARD, SLEEP_TALK, SUBSTITUTE, SWAGGER, TOXIC, LIGHT_SCREEN, REST, IRON_TAIL, RAIN_DANCE, ENDURE, SWIFT
-	; end
+	dn EGG_FIELD, EGG_MONSTER ; egg groups

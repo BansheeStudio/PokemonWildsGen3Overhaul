@@ -8,7 +8,7 @@
 
     db HORSEA 100 ; Base form(s) (MON_NAME for base species, then chance).
 
-    db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
+    db OCEAN_FISHING ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
     db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).

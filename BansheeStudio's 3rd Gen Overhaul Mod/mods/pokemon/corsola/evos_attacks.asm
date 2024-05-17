@@ -1,15 +1,21 @@
 	db 0 ; no more evolutions
+	db 1, BUBBLE
 	db 1, TACKLE
-	db 1, HARDEN
-	db 5, WATER_GUN
-	db 10, AQUA_RING
-	db 15, ENDURE
-	db 20, ANCIENTPOWER
+	db 4, HARDEN
+	db 7, WATER_GUN
+	db 10, ANCIENTPOWER
+	db 13, IRON_DEFENSE
+	db 16, SPIKE_CANNON
+	db 19, WATER_GUN
+	db 22, RECOVER
 	db 25, BUBBLEBEAM
-	db 30, FLAIL
-	db 35, LIFE_DEW
+	db 28, POWER_GEM
+	db 31, EARTH_POWER
+	db 34, RECOVER
+	db 37, BUBBLEBEAM
 	db 40, POWER_GEM
-	db 45, EARTH_POWER
-	db 50, RECOVER
-	db 55, MIRROR_COAT
+	db 43, EARTH_POWER
+	db 46, RECOVER
+	db 49, BUBBLEBEAM
+	db 52, POWER_GEM
 	db 0 ; no more level-up moves

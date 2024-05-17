@@ -1,7 +1,7 @@
 	db FLAREON ; 136
 
-	db  65,  130,  60,  65,  95,  110
-  ;  hp  atk  def  spd sat sdf
+	db  75,  130,  60,  95,  45,  120
+	;  hp  atk  def  spd sat sdf
 
 	db FIRE, FIRE ; type
 	db 45 ; catch rate

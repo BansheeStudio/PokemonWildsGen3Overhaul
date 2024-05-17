@@ -1,16 +1,22 @@
 	db EVOLVE_LEVEL, 14, LOMBRE
 	db 0 ; no more evolutions
-	db 1, ASTONISH
 	db 1, GROWL
-	db 3, ABSORB
-	db 6, WATER_GUN
-	db 9, MIST
-	db 12, MEGA_DRAIN
-	db 16, FLAIL
-	db 20, BUBBLEBEAM
-	db 24, NATURE_POWER
-	db 28, GIGA_DRAIN
-	db 33, RAIN_DANCE
-	db 38, ZEN_HEADBUTT
-	db 43, ENERGY_BALL
+	db 1, ASTONISH
+	db 4, ABSORB
+	db 7, WATER_GUN
+	db 10, MEGA_DRAIN
+	db 13, RAZOR_LEAF
+	db 16, GROWL
+	db 19, LEECH_SEED
+	db 22, ZEN_HEADBUTT
+	db 25, WATER_GUN
+	db 28, MEGA_DRAIN
+	db 31, LEECH_SEED
+	db 34, ZEN_HEADBUTT
+	db 37, BUBBLEBEAM
+	db 40, GIGA_DRAIN
+	db 43, LEECH_SEED
+	db 46, ZEN_HEADBUTT
+	db 49, BUBBLEBEAM
+	db 52, GIGA_DRAIN
 	db 0 ; no more level-up moves

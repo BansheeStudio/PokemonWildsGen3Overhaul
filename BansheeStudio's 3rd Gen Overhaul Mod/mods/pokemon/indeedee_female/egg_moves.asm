@@ -1,3 +1,0 @@
-	db EXTRASENSORY
-	db FAKE_OUT
-	db PSYCH_UP

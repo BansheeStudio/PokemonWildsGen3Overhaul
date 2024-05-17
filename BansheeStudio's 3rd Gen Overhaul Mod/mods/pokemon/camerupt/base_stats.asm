@@ -1,7 +1,7 @@
 	db CAMERUPT ; 323
 
-	db  70,  100,  70,  40,  105,  75
-  ;  hp  atk  def  spd sat sdf
+	db  80,  100,  70,  70,  105,  75
+	;  hp  atk  def  spd sat sdf
 
 	db FIRE, GROUND ; type
 	db 150 ; catch rate

@@ -1,16 +1,22 @@
-	db EVOLVE_LEVEL, 40, ARMALDO
+	db EVOLVE_LEVEL, 30, ARMALDO
 	db 0 ; no more evolutions
-	db 1, FURY_CUTTER
-	db 1, HARDEN
-	db 4, WATER_GUN
-	db 8, SMACK_DOWN
-	db 12, METAL_CLAW
-	db 16, ANCIENTPOWER
-	db 20, BUG_BITE
-	db 24, BRINE
-	db 28, SLASH
-	db 32, CRUSH_CLAW
-	db 36, ROCK_BLAST
-	db 41, PROTECT
-	db 44, X_SCISSOR
+	db 1, SHARPEN
+	db 1, SCRATCH
+	db 4, ROCK_THROW
+	db 7, METAL_CLAW
+	db 10, WATER_GUN
+	db 13, ROCK_THROW
+	db 16, AQUA_JET
+	db 19, CURSE
+	db 22, ROCK_SLIDE
+	db 25, PIN_MISSILE
+	db 28, AQUA_JET
+	db 31, CURSE
+	db 34, ROCK_SLIDE
+	db 37, MEGAHORN
+	db 40, SCREECH
+	db 43, AQUA_JET
+	db 46, CURSE
+	db 49, ROCK_SLIDE
+	db 52, MEGAHORN
 	db 0 ; no more level-up moves

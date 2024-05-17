@@ -1,16 +1,17 @@
-	db EVOLVE_LEVEL, 16, NIDORINA
-	db 0 ; no more evolutions
+	db EVOLVE_LEVEL, 18, NIDORINA
 	db 1, GROWL
-	db 1, POISON_STING
-	db 5, SCRATCH
-	db 10, TAIL_WHIP
-	db 15, FURY_SWIPES
-	db 20, TOXIC_SPIKES
-	db 25, DOUBLE_KICK
-	db 30, BITE
-	db 35, HELPING_HAND
-	db 40, TOXIC
-	db 45, FLATTER
-	db 50, CRUNCH
-	db 55, EARTH_POWER
+	db 1, SCRATCH
+	db 4, POISON_STING
+	db 8, DOUBLE_KICK
+	db 10, FURY_SWIPES
+	db 13, BITE
+	db 16, SLUDGE
+	db 19, MUD_SLAP
+	db 22, SLUDGE_BOMB
+	db 25, EARTH_POWER
+	db 34, TOXIC
+	db 37, EARTH_POWER
+	db 40, SLUDGE_BOMB
+	db 49, EARTH_POWER
+	db 52, SLUDGE_BOMB
 	db 0 ; no more level-up moves

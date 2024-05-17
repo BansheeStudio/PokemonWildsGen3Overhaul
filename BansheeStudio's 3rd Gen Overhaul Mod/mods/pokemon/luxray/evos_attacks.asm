@@ -1,17 +1,24 @@
 	db 0 ; no more evolutions
-	db 1, ELECTRIC_TERRAIN
 	db 1, TACKLE
 	db 1, LEER
-	db 1, THUNDERSHOCK
-	db 1, CHARGE
-	db 12, BITE
-	db 18, SPARK
-	db 24, ROAR
-	db 33, VOLT_SWITCH
-	db 40, SCARY_FACE
-	db 48, THUNDER_WAVE
-	db 56, CRUNCH
-	db 64, DISCHARGE
-	db 72, SWAGGER
-	db 80, WILD_CHARGE
+	db 4, THUNDERSHOCK
+	db 7, BITE
+	db 10, SPARK
+	db 13, DOUBLE_KICK
+	db 16, SHARPEN
+	db 19, SCARY_FACE
+	db 20, FALSE_SWIPE
+	db 22, BITE
+	db 25, SPARK
+	db 28, SHARPEN
+	db 30, FALSE_SWIPE
+	db 31, PLAY_ROUGH
+	db 34, SPARK
+	db 37, CRUNCH
+	db 40, DOUBLE_KICK
+	db 40, FALSE_SWIPE
+	db 43, SHARPEN
+	db 46, PLAY_ROUGH
+	db 49, SPARK
+	db 52, CRUNCH
 	db 0 ; no more level-up moves

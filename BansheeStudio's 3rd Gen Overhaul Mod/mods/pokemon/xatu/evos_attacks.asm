@@ -1,17 +1,21 @@
 	db 0 ; no more evolutions
-	db 0, AIR_SLASH
-	db 1, AIR_SLASH
-	db 1, TAILWIND
-	db 1, PECK
 	db 1, LEER
-	db 1, STORED_POWER
-	db 1, TELEPORT
-	db 15, CONFUSE_RAY
-	db 20, NIGHT_SHADE
-	db 28, PSYCHO_SHIFT
-	db 34, POWER_SWAP
-	db 34, GUARD_SWAP
-	db 41, PSYCHIC
-	db 48, WISH
-	db 55, FUTURE_SIGHT
+	db 1, PECK
+	db 4, ASTONISH
+	db 7, QUICK_ATTACK
+	db 10, NIGHT_SHADE
+	db 13, TELEPORT
+	db 16, CONFUSE_RAY
+	db 19, NIGHT_SHADE
+	db 22, LEER
+	db 25, WING_ATTACK
+	db 28, PSYCHO_CUT
+	db 31, QUICK_ATTACK
+	db 34, GLARE
+	db 37, DRILL_PECK
+	db 40, ZEN_HEADBUTT
+	db 43, QUICK_ATTACK
+	db 46, GLARE
+	db 49, DRILL_PECK
+	db 52, ZEN_HEADBUTT
 	db 0 ; no more level-up moves

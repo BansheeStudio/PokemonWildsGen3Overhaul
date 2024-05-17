@@ -1,14 +1,21 @@
 	db EVOLVE_LEVEL, 25, POLIWHIRL
-	db 0 ; no more evolutions
-	db 1, WATER_GUN
 	db 1, HYPNOSIS
-	db 6, POUND
-	db 12, MUD_SHOT
-	db 18, BUBBLEBEAM
-	db 24, RAIN_DANCE
-	db 30, BODY_SLAM
-	db 36, EARTH_POWER
-	db 42, HYDRO_PUMP
-	db 48, BELLY_DRUM
-	db 54, DOUBLE_EDGE
+	db 1, DOUBLESLAP
+	db 4, WATER_GUN
+	db 7, MUD_SLAP
+	db 10, HYPNOSIS
+	db 13, POUND
+	db 16, BUBBLEBEAM
+	db 19, SWIFT
+	db 22, MUD_SLAP
+	db 25, HYPNOSIS
+	db 28, BODY_SLAM
+	db 31, BUBBLEBEAM
+	db 34, MUD_SLAP
+	db 37, HYPNOSIS
+	db 40, BODY_SLAM
+	db 43, BUBBLEBEAM
+	db 46, MUD_SLAP
+	db 49, HYPNOSIS
+	db 52, BODY_SLAM
 	db 0 ; no more level-up moves

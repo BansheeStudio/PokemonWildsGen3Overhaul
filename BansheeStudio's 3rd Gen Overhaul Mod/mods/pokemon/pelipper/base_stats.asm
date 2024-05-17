@@ -1,7 +1,7 @@
 	db PELIPPER ; 279
 
-	db  60,  50,  100,  65,  95,  70
-  ;  hp  atk  def  spd sat sdf
+	db  80,  50,  120,  65,  115,  70
+	;  hp  atk  def  spd sat sdf
 
 	db WATER, FLYING ; type
 	db 45 ; catch rate

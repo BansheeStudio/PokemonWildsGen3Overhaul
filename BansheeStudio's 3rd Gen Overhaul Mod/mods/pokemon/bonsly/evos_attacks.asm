@@ -1,16 +1,22 @@
-	db EVOLVE_MOVE, MIMIC, SUDOWOODO
+	db EVOLVE_LEVEL, 15, SUDOWOODO
 	db 0 ; no more evolutions
-	db 1, FAKE_TEARS
-	db 1, COPYCAT
-	db 4, FLAIL
-	db 8, ROCK_THROW
-	db 12, BLOCK
-	db 16, MIMIC
-	db 20, ROCK_TOMB
-	db 24, TEARFUL_LOOK
-	db 28, SUCKER_PUNCH
-	db 32, ROCK_SLIDE
-	db 36, LOW_KICK
-	db 40, COUNTER
-	db 44, DOUBLE_EDGE
+	db 1, POUND
+	db 1, ROCK_THROW
+	db 4, VINE_WHIP
+	db 7, LOW_KICK
+	db 10, MIMIC
+	db 13, HEADBUTT
+	db 16, ROCK_THROW
+	db 19, LOW_KICK
+	db 22, RAZOR_LEAF
+	db 25, HEADBUTT
+	db 28, ROCK_SLIDE
+	db 31, CURSE
+	db 34, SEED_BOMB
+	db 37, CROSS_CHOP
+	db 40, ROCK_SLIDE
+	db 43, CURSE
+	db 46, SEED_BOMB
+	db 49, CROSS_CHOP
+	db 52, ROCK_SLIDE
 	db 0 ; no more level-up moves

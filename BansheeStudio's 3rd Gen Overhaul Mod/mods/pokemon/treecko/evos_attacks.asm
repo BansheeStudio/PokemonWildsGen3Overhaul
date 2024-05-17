@@ -1,0 +1,23 @@
+	db EVOLVE_LEVEL, 16, GROVYLE
+	db 0 ; no more evolutions
+	db 1, POUND
+	db 1, LEER
+	db 4, QUICK_ATTACK
+	db 7, MEGA_DRAIN
+	db 10, GROWTH
+	db 13, FALSE_SWIPE
+	db 16, SHARPEN
+	db 19, QUICK_ATTACK
+	db 22, RAZOR_LEAF
+	db 25, GROWTH
+	db 28, FALSE_SWIPE
+	db 31, DRAGONBREATH
+	db 34, ENERGY_BALL
+	db 37, SUNNY_DAY
+	db 40, DRAGON_CLAW
+	db 43, LEAF_BLADE
+	db 46, FALSE_SWIPE
+	db 49, DRAGON_PULSE
+	db 52, MEGA_GRAIN
+	db 56, SOLAR_BEAM
+	db 0 ; no more level-up moves

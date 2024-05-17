@@ -1,15 +1,21 @@
 	db 0 ; no more evolutions
 	db 1, QUICK_ATTACK
 	db 1, LEER
-	db 5, DOUBLE_TEAM
-	db 10, KNOCK_OFF
-	db 15, DETECT
-	db 20, TAUNT
-	db 25, SLASH
-	db 30, NIGHT_SLASH
-	db 35, FOCUS_ENERGY
-	db 40, SUCKER_PUNCH
-	db 45, SWORDS_DANCE
-	db 50, FUTURE_SIGHT
-	db 55, PERISH_SONG
+	db 4, DOUBLE_TEAM
+	db 7, FALSE_SWIPE
+	db 10, SHARPEN
+	db 13, QUICK_ATTACK
+	db 16, LEER
+	db 19, FEINT_ATTACK
+	db 22, HORN_ATTACK
+	db 25, FALSE_SWIPE
+	db 28, PSYCHO_CUT
+	db 31, SWORDS_DANCE
+	db 34, NIGHT_SLASH
+	db 37, SLASH
+	db 40, QUICK_ATTACK
+	db 43, PSYCHO_CUT
+	db 46, SWORDS_DANCE
+	db 49, NIGHT_SLASH
+	db 52, SLASH
 	db 0 ; no more level-up moves

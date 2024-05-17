@@ -3,15 +3,20 @@
 	db 1, LICK
 	db 1, POUND
 	db 4, POWDER_SNOW
-	db 8, COPYCAT
-	db 12, CONFUSION
-	db 16, COVET
-	db 20, SING
-	db 24, FAKE_TEARS
-	db 28, ICE_PUNCH
-	db 32, PSYCHIC
-	db 36, SWEET_KISS
-	db 40, MEAN_LOOK
-	db 44, PERISH_SONG
-	db 48, BLIZZARD
+	db 7, CONFUSION
+	db 10, SWEET_KISS
+	db 13, SING
+	db 16, ICY_WIND
+	db 19, ATTRACT
+	db 22, LOVELY_KISS
+	db 25, PSYBEAM
+	db 28, ICE_BEAM
+	db 31, SWEET_KISS
+	db 34, FREEZE_DRY
+	db 37, LOVELY_KISS
+	db 40, ICE_BEAM
+	db 43, ATTRACT
+	db 46, FREEZE_DRY
+	db 49, PSYCHIC
+	db 52, BLIZZARD
 	db 0 ; no more level-up moves

@@ -1,15 +1,22 @@
-	db EVOLVE_LEVEL, 33, PILOSWINE
+	db EVOLVE_LEVEL, 23, PILOSWINE
 	db 0 ; no more evolutions
-	db 1, TACKLE
 	db 1, MUD_SLAP
-	db 5, POWDER_SNOW
-	db 10, FLAIL
-	db 15, ICE_SHARD
-	db 20, MIST
-	db 25, ENDURE
-	db 30, ICY_WIND
-	db 35, AMNESIA
-	db 40, TAKE_DOWN
-	db 45, EARTHQUAKE
-	db 50, BLIZZARD
+	db 1, TACKLE
+	db 4, POWDER_SNOW
+	db 7, CURSE
+	db 10, DIG
+	db 13, SCARY_FACE
+	db 16, AMNESIA
+	db 19, HORN_ATTACK
+	db 22, ICE_PUNCH
+	db 25, DIG
+	db 28, CURSE
+	db 31, ROCK_SLIDE
+	db 34, DOUBLE_EDGE
+	db 37, ICE_PUNCH
+	db 40, EARTHQUAKE
+	db 43, ROCK_SLIDE
+	db 46, DOUBLE_EDGE
+	db 49, ICE_PUNCH
+	db 52, EARTHQUAKE
 	db 0 ; no more level-up moves

@@ -1,0 +1,22 @@
+	db EVOLVE_LEVEL, 27, LANTURN
+	db 0 ; no more evolutions
+	db 1, WATER_GUN
+	db 1, THUNDERSHOCK
+	db 4, SUPERSONIC
+	db 7, THUNDERWAVE
+	db 10, SCREECH
+	db 13, WATER_GUN
+	db 16, CONFUSION
+	db 19, SHOCK_WAVE
+	db 22, BUBBLEBEAM
+	db 25, CONFUSE_RAY
+	db 28, THUNDERWAVE
+	db 31, PSYBEAM
+	db 34, THUNDERBOLT
+	db 37, BUBBLEBEAM
+	db 40, CONFUSE_RAY
+	db 43, THUNDERWAVE
+	db 46, PSYBEAM
+	db 49, THUNDERBOLT
+	db 52, SURF
+	db 0 ; no more level-up moves

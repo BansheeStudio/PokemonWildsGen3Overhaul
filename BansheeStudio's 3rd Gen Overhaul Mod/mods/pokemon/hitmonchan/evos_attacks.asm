@@ -1,0 +1,22 @@
+	db 0 ; no more evolutions
+	db 1, KARATE_CHOP
+	db 1, ROCK_SMASH
+	db 1, TACKLE
+	db 1, MEDITATE
+	db 4, DRAIN_PUNCH
+	db 10, DRAIN_PUNCH
+	db 13, FIRE_PUNCH
+	db 16, ICE_PUNCH
+	db 19, THUNDERPUNCH
+	db 22, DRAIN_PUNCH
+	db 25, MEDITATE
+	db 28, FIRE_PUNCH
+	db 31, ICE_PUNCH
+	db 34, THUNDERPUNCH
+	db 37, DRAIN_PUNCH
+	db 40, MEDITATE
+	db 43, FIRE_PUNCH
+	db 46, ICE_PUNCH
+	db 49, THUNDERPUNCH
+	db 52, DRAIN_PUNCH
+	db 0 ; no more level-up moves

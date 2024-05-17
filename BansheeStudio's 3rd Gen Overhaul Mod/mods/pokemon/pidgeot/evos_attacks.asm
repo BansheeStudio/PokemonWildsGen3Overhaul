@@ -1,20 +1,19 @@
 	db 0 ; no more evolutions
-	db 1, HURRICANE
-	db 1, TACKLE
-	db 1, SAND_ATTACK
-	db 1, GUST
-	db 1, QUICK_ATTACK
+	db 1, PECK
 	db 5, SAND_ATTACK
-	db 9, GUST
-	db 13, QUICK_ATTACK
-	db 17, WHIRLWIND
-	db 22, TWISTER
-	db 27, FEATHER_DANCE
-	db 32, AGILITY
-	db 38, WING_ATTACK
-	db 44, ROOST
-	db 50, TAILWIND
-	db 56, MIRROR_MOVE
-	db 62, AIR_SLASH
-	db 68, HURRICANE
+	db 7, GUST
+	db 9, QUICK_ATTACK
+	db 13, WING_ATTACK
+	db 17, AERIAL_ACE
+	db 21, TWISTER
+	db 24, AIR_CUTTER
+	db 27, WHIRLWIND
+	db 29, SWIFT
+	db 33, AIR_SLASH
+	db 37, HYPER_VOICE
+	db 41, TWISTER
+	db 43, SWIFT
+	db 46, ROOST
+	db 49, AIR_SLASH
+	db 52, HURRICANE
 	db 0 ; no more level-up moves

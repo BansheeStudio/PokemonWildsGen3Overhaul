@@ -1,16 +1,21 @@
 	db 0 ; no more evolutions
 	db 1, ABSORB
-	db 1, HARDEN
 	db 1, ASTONISH
-	db 1, SAND_TOMB
-	db 15, MEGA_DRAIN
-	db 20, SAND_ATTACK
-	db 25, BULLDOZE
-	db 30, HYPNOSIS
-	db 35, GIGA_DRAIN
-	db 40, IRON_DEFENSE
-	db 47, SHADOW_BALL
-	db 54, EARTH_POWER
-	db 61, SHORE_UP
-	db 68, SANDSTORM
+	db 4, HARDEN
+	db 7, MUD_SLAP
+	db 10, SAND_ATTACK
+	db 13, MEGA_DRAIN
+	db 16, HYPNOSIS
+	db 19, ASTONISH
+	db 22, MUD_SLAP
+	db 25, SAND_ATTACK
+	db 28, HYPNOSIS
+	db 31, GIGA_DRAIN
+	db 34, SHADOW_BALL
+	db 37, EARTH_POWER
+	db 40, SAND_ATTACK
+	db 43, HYPNOSIS
+	db 46, GIGA_DRAIN
+	db 49, SHADOW_BALL
+	db 52, EARTH_POWER
 	db 0 ; no more level-up moves

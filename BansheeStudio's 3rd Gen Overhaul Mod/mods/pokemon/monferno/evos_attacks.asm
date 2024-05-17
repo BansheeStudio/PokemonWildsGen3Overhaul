@@ -1,0 +1,22 @@
+	db EVOLVE_LEVEL, 36, INFERNAPE
+	db 0 ; no more evolutions
+	db 1, SCRATCH
+	db 1, LEER
+	db 4, GROWL
+	db 7, EMBER
+	db 10, MACH_PUNCH
+	db 13, FURY_SWIPES
+	db 16, FLAME_WHEEL
+	db 19, FALSE_SWIPE
+	db 22, MACH_PUNCH
+	db 25, AURA_SPHERE
+	db 28, FIRE_PUNCH
+	db 31, CROSS_CHOP
+	db 34, FLAMETHROWER
+	db 37, FALSE_SWIPE
+	db 40, MACH_PUNCH
+	db 43, AURA_SPHERE
+	db 46, FIRE_PUNCH
+	db 49, CROSS_CHOP
+	db 52, FLAMETHROWER
+	db 0 ; no more level-up moves

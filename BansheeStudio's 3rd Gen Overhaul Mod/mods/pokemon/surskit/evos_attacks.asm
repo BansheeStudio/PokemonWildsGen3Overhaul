@@ -1,14 +1,22 @@
 	db EVOLVE_LEVEL, 22, MASQUERAIN
 	db 0 ; no more evolutions
+	db 1, QUICK_ATTACK
 	db 1, BUBBLE
-	db 6, QUICK_ATTACK
-	db 9, SWEET_SCENT
-	db 14, WATER_SPORT
-	db 17, BUBBLEBEAM
-	db 22, AGILITY
-	db 25, MIST
-	db 25, HAZE
-	db 30, AQUA_JET
-	db 35, BATON_PASS
-	db 38, STICKY_WEB
+	db 4, SWEET_SCENT
+	db 7, MUD_SLAP
+	db 10, AQUA_JET
+	db 13, BUBBLEBEAM
+	db 16, STRUGGLE_BUG
+	db 19, QUICK_ATTACK
+	db 22, SWEET_SCENT
+	db 25, AQUA_JET
+	db 28, STRUGGLE_BUG
+	db 31, PSYBEAM
+	db 34, BUBBLEBEAM
+	db 37, BUG_BUZZ
+	db 40, AQUA_JET
+	db 43, STRUGGLE_BUG
+	db 46, PSYBEAM
+	db 49, BUBBLEBEAM
+	db 52, BUG_BUZZ
 	db 0 ; no more level-up moves

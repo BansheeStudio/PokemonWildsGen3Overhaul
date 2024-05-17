@@ -1,7 +1,7 @@
 	db GLACEON ; 471
 
-	db  65,  60,  110,  65,  130,  95
-  ;  hp  atk  def  spd sat sdf
+	db  95,  60,  110,  65,  130,  65
+	;  hp  atk  def  spd sat sdf
 
 	db ICE, ICE ; type
 	db 45 ; catch rate

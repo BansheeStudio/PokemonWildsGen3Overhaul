@@ -1,18 +1,21 @@
 	db 0 ; no more evolutions
-	db 1, SKY_ATTACK
 	db 1, PECK
-	db 1, GROWL
-	db 1, TACKLE
-	db 1, ECHOED_VOICE
-	db 9, CONFUSION
-	db 12, REFLECT
-	db 15, PSYCHO_SHIFT
-	db 18, AIR_SLASH
-	db 23, EXTRASENSORY
+	db 1, ASTONISH
+	db 4, REFLECT
+	db 7, MEDITATE
+	db 10, NIGHT_SHADE
+	db 13, HYPNOSIS
+	db 16, WING_ATTACK
+	db 19, REFLECT
+	db 22, SHADOW_CLAW
+	db 25, NIGHT_SHADE
 	db 28, TAKE_DOWN
-	db 33, UPROAR
-	db 38, ROOST
-	db 43, MOONBLAST
-	db 48, HYPNOSIS
-	db 53, DREAM_EATER
+	db 31, HYPNOSIS
+	db 34, WING_ATTACK
+	db 37, SHADOW_CLAW
+	db 40, ROOST
+	db 43, ZEN_HEADBUTT
+	db 46, DREAM_EATER
+	db 49, UPROAR
+	db 52, EXTRASENSORY
 	db 0 ; no more level-up moves
