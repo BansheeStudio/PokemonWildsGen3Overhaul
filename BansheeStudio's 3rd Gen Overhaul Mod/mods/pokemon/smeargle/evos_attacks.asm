@@ -1,3 +1,4 @@
+	db EVOLVE_ITEM, FIRE_STONE, MOLTRES
 	db 0 ; no more evolutions
 	db 1, SKETCH
 	db 2, SKETCH
