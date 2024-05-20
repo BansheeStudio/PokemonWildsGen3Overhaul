@@ -63,8 +63,9 @@ Main Contributor - MochaFox
 Thank you for allow to use of your Transparent Sprite Backgrounds
 it has sped up so much work
 
-Main Contributor - Takies
+Main Contributor - Takies/Tmagma
 Thank you for the OW sprite re-colouring it fit so well into the Gen 3 world style
+PKMN sprite work, cleanup sprites & adding in missing pokemon
 
 Main Contributor - SombrAbsol
 Thanks for the HQ music now all music will sounds as if they where played from a AGB
@@ -79,9 +80,6 @@ as well as the edits you have contributed to the project like the optional bag a
 Contributor - ThanatosZero
 Thanks for the PKMN Sapphire sprite and the permission to recolour it.
 It is a great sprite and really fits in well with the game.
-
-Contributor - TMagma
-PKMN sprite work, cleanup sprites & adding in missing pokemon
 
 Contributor - Danieru
 Thanks for the new holes tiles and OW sprites recolour it's a great job and really improves the world & the half of the Dig Tiles
