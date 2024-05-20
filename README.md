@@ -80,6 +80,9 @@ Contributor - ThanatosZero
 Thanks for the PKMN Sapphire sprite and the permission to recolour it.
 It is a great sprite and really fits in well with the game.
 
+Contributor - TMagma
+PKMN sprite work, cleanup sprites & adding in missing pokemon
+
 Contributor - Danieru
 Thanks for the new holes tiles and OW sprites recolour it's a great job and really improves the world & the half of the Dig Tiles
 
@@ -89,3 +92,5 @@ Thank you Jet for doing a handful of people it really helps to get the pokemon O
 Contributor - Emma Dreamcore
 For the send retexture it looks much nicer now thank you
 
+Contributor - Odin
+Replaced torches with lamps

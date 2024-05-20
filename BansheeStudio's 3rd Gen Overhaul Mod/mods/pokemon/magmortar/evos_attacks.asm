@@ -1,0 +1,22 @@
+	db EVOLVE_ITEM, THUNDERSTONE, ELECTIVIRE
+	db 0 ; no more evolutions
+	db 1, LEER
+	db 1, EMBER
+	db 4, SMOG
+	db 7, SMOKESCREEN
+	db 10, FLAME_WHEEL
+	db 13, CONFUSE_RAY
+	db 16, SCARY_FACE
+	db 19, FIRE_PUNCH
+	db 22, WILL_O_WISP
+	db 25, SMOKESCREEN
+	db 28, CONFUSE_RAY
+	db 31, AURA_SPHERE
+	db 34, FLAMETHROWER
+	db 37, WILL_O_WISP
+	db 40, FIRE_PUNCH
+	db 43, FLAMETHROWER
+	db 46, CONFUSE_RAY
+	db 49, AURA_SPHERE
+	db 52, FIRE_BLAST
+	db 0 ; no more level-up moves
