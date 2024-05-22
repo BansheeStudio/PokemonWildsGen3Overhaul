@@ -70,6 +70,9 @@ it has sped up so much work
 Main Contributor - SombrAbsol
 Thanks for the HQ music now all music will sounds as if they where played from a AGB
 
+Main Contributor - softpaw6234
+For making the battle sprites Transparent
+
 Contributor - Fantactic
 Fixed the white indoor roof bug thanks again as well as colouring OW spritess & Tile fixes & finishing the hole tiles
 
@@ -92,3 +95,6 @@ For the send retexture it looks much nicer now thank you
 
 Contributor - Odin
 Replaced torches with lamps
+
+Contributor - jojamart
+For the May skin
