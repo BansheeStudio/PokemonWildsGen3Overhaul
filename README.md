@@ -96,5 +96,8 @@ For the send retexture it looks much nicer now thank you
 Contributor - Odin
 Replaced torches with lamps
 
-Contributor - jojamart
-For the May skin
+Contributor - Jojamart
+For the May player skin
+
+Contributor - Smophet
+For the Gardenia player skin
