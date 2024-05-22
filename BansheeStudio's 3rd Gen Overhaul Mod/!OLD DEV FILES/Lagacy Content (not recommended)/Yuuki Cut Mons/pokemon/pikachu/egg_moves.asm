@@ -1,5 +1,0 @@
-	db REVERSAL
-	db BIDE
-	db PRESENT
-	db ENCORE
-	db DOUBLESLAP

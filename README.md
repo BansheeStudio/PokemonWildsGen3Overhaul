@@ -47,6 +47,10 @@ Thank you for the FR/LG edits, edits to savanna tiles as well as  Deep Desert/Sn
 and some of the other tiles in the pack. They really do help blend it and replace some of Hoenn's less detailed tiles 
 as well as the optional edits for fans of FR/LG. Also for Porting sounds and music from the gen 3 games.
 
+Main Dev - Takies/Tmagma
+Thank you for the OW sprite re-colouring it fit so well into the Gen 3 world style
+PKMN sprite work, cleanup sprites & adding in missing pokemon
+
 Main Contributor - Darkwolfgaming91
 Thanks for all the edits of the mod the new textures looks great and is very much appreciated
 
@@ -62,10 +66,6 @@ Thank you for the eevee OW sprites and the red trainer sprites your work helps u
 Main Contributor - MochaFox
 Thank you for allow to use of your Transparent Sprite Backgrounds
 it has sped up so much work
-
-Main Contributor - Takies/Tmagma
-Thank you for the OW sprite re-colouring it fit so well into the Gen 3 world style
-PKMN sprite work, cleanup sprites & adding in missing pokemon
 
 Main Contributor - SombrAbsol
 Thanks for the HQ music now all music will sounds as if they where played from a AGB
