@@ -1,3 +1,4 @@
+	db EVOLVE_ITEM, SHINY_STONE, COTTONEE
 	db EVOLVE_LEVEL, 18, SKIPLOOM
 	db 0 ; no more evolutions
 	db 1, GUST

@@ -3,7 +3,7 @@
 	db  40,  55,  80,  30,  35,  60
   ;  hp  atk  def  spd sat sdf
 
-	db STEEL, PSYCHIC ; type
+	db STEEL, STEEL ; type
 	db 3 ; catch rate
 	db 60 ; base exp
 	db NO_ITEM, NO_ITEM

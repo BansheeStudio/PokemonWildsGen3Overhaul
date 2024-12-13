@@ -1,27 +1,17 @@
 	db 0 ; no more evolutions
-	db 0, SNARL
-	db 1, SNARL
-	db 1, COVET
-	db 1, SWIFT
-	db 1, BITE
-	db 1, COPYCAT
-	db 1, BATON_PASS
-	db 1, TAKE_DOWN
-	db 1, CHARM
-	db 1, DOUBLE_EDGE
-	db 1, HELPING_HAND
 	db 1, TACKLE
-	db 1, GROWL
 	db 1, TAIL_WHIP
 	db 5, SAND_ATTACK
 	db 10, QUICK_ATTACK
-	db 15, BABY_DOLL_EYES
-	db 20, CONFUSE_RAY
-	db 25, ASSURANCE
-	db 30, MOONLIGHT
-	db 35, GUARD_SWAP
-	db 40, DARK_PULSE
-	db 45, SCREECH
-	db 50, MEAN_LOOK
-	db 55, LAST_RESORT
+	db 13, DOUBLE_KICK
+	db 18, CONFUSE_RAY
+	db 24, ASSURANCE
+	db 28, MOONLIGHT
+	db 31, GUARD_SWAP
+	db 36, DARK_PULSE
+	db 40, HYPER_VOICE
+	db 44, MEAN_LOOK
+	db 48, HYPER_BEAM
+	db 52, CRUNCH
+	db 56, LAST_RESORT
 	db 0 ; no more level-up moves

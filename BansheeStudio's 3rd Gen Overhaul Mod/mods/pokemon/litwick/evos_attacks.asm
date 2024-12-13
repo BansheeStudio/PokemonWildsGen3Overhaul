@@ -1,3 +1,4 @@
+	db EVOLVE_ITEM, SHINY_STONE, GOLETT
 	db EVOLVE_LEVEL, 21, LAMPENT
 	db 0 ; no more evolutions
 	db 1, ASTONISH

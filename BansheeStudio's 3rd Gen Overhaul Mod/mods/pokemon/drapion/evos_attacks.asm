@@ -1,3 +1,4 @@
+	db EVOLVE_ITEM, DUSK_STONE, GLIGAR
 	db 0 ; no more evolutions
 	db 1, LEER
 	db 1, POISON_STING

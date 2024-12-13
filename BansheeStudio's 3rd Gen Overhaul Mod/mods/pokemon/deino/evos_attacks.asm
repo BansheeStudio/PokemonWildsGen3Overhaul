@@ -1,0 +1,32 @@
+	db EVOLVE_LEVEL, 30, ZWEILOUS
+	db 0 ; no more evolutions
+	db 1, TACKLE
+	db 1, SHARPEN
+	db 4, PURSUIT
+	db 7, SLAM
+	db 10, HEADBUTT
+	db 13, BITE
+	db 16, FEINT_ATTACK
+	db 19, DRAGONBREATH
+	db 22, SWIFT
+	db 25, HYPER_VOICE
+	db 28, DRAGON_CLAW
+	db 30, FALSE_SWIPE
+	db 31, GROWTH
+	db 34, BODY_SLAM
+	db 37, CRUNCH
+	db 40, OUTRAGE
+	db 40, FALSE_SWIPE
+	db 43, NASTY_PLOT
+	db 46, EARTH_POWER
+	db 49, DRAGON_PULSE
+	db 50, FALSE_SWIPE
+	db 52, DARK_PULSE
+	db 55, CRUNCH
+	db 55, DRAGON_CLAW
+	db 55, NASTY_PLOT
+	db 55, EARTH_POWER
+	db 55, DRAGON_PULSE
+	db 55, DARK_PULSE
+	db 55, OUTRAGE
+	db 0 ; no more level-up moves

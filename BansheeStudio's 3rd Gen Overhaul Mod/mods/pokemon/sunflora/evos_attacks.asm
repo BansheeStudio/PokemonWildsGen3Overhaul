@@ -1,3 +1,4 @@
+	db EVOLVE_ITEM, SHINY_STONE, PETILIL
 	db 0 ; no more evolutions
 	db 1, GROWTH
 	db 1, ABSORB

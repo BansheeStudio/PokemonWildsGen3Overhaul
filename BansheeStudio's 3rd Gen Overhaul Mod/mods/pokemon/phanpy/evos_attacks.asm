@@ -2,7 +2,7 @@
 	db 0 ; no more evolutions
 	db 1, DEFENSE_CURL
 	db 1, ROLLOUT
-	db 4, TACKLE
+	db 1, TACKLE
 	db 7, CHARM
 	db 10, SHARPEN
 	db 13, PLAY_ROUGH

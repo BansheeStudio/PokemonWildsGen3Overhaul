@@ -20,7 +20,7 @@
     db 0 ; Power (always able on ELECTRIC).
     db 0 ; Cut (always able on GRASS).
     db 0 ; Smash (always able on ROCK).
-    db 0 ; Surf (always able on final WATER evolutions).
+    db 1 ; Surf (always able on final WATER evolutions).
     db 0 ; Flash (always able on FIRE).
     db 0 ; Build (always able on FIGHTING).
     db 0 ; Charm (always able on FAIRY).

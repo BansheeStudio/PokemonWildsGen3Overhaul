@@ -1,4 +1,4 @@
-	db EVOLVE_LEVEL, 35, FLYGON
+	db EVOLVE_LEVEL, 45, FLYGON
 	db 0 ; no more evolutions
 	db 1, ASTONISH
 	db 1, SAND_ATTACK

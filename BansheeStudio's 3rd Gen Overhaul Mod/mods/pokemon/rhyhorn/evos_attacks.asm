@@ -1,3 +1,4 @@
+	db EVOLVE_ITEM, SHINY_STONE, DUNSPARCE
 	db EVOLVE_LEVEL, 30, RHYDON
 	db 0 ; no more evolutions
 	db 1, TAIL_WHIP

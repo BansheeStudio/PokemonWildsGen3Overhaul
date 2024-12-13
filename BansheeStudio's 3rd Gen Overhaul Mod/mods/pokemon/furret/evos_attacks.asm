@@ -1,3 +1,4 @@
+	db EVOLVE_ITEM, SHINY_STONE, KECLEON
 	db 0 ; no more evolutions
 	db 1, DEFENSE_CURL
 	db 1, SCRATCH

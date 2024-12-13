@@ -1,3 +1,4 @@
+	db EVOLVE_ITEM, SHINY_STONE, SNORLAX
 	db EVOLVE_LEVEL, 15, FURRET
 	db 0 ; no more evolutions
 	db 1, DEFENSE_CURL

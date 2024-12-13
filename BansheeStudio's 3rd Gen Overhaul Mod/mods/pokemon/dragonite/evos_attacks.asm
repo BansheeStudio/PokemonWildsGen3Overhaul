@@ -1,3 +1,4 @@
+	db EVOLVE_ITEM, SHINY_STONE, SUCCINE
 	db 0 ; no more evolutions
 	db 1, LEER
 	db 1, WRAP

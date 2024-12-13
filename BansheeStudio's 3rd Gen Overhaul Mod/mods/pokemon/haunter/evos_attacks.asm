@@ -1,3 +1,4 @@
+	db EVOLVE_LEVEL, 36, GENGAR
 	db 0 ; no more evolutions
 	db 1, LICK
 	db 1, CONFUSE_RAY

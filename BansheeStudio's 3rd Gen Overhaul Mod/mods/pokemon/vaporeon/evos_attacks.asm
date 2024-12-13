@@ -1,15 +1,14 @@
-	db EVOLVE_ITEM, ICE_STONE, SUICUNE
 	db 0 ; no more evolutions
 	db 1, TAIL_WHIP
 	db 1, WATER_GUN
 	db 4, SAND_ATTACK
 	db 7, QUICK_ATTACK
-	db 10, SWIFT
+	db 10, WATER_GUN
 	db 13, BITE
 	db 16, CHARM
-	db 19, BUBBLEBEAM
-	db 22, WATER_GUN
-	db 25, ACID_ARMOR
+	db 19, SWIFT
+	db 22, aCID_ARMOR
+	db 25, BUBBLEBEAM
 	db 28, MUDDY_WATER
 	db 31, SURF
 	db 34, BUBBLEBEAM

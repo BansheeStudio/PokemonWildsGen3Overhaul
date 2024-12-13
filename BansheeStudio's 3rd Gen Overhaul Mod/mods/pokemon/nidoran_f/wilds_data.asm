@@ -1,14 +1,14 @@
-    db NIDORAN} ; Display name (DEFAULT for default name).
+    db DEFAULT ; Display name (DEFAULT for default name).
 
-    db 29 ; Dex number.
-    db <Nidoran has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn.> ; Dex entry.
+    db 30 ; Dex number.
+    db <When Nidorina are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This Pokémon appears to become nervous if separated from the others.> ; Dex entry.
 
-    db 7.0 ; Weight in kg.
-    db 0.4 ; Height in meters.
+    db 20.0 ; Weight in kg.
+    db 0.8 ; Height in meters.
 
     db NIDORAN_F 50, NIDIDORAN_M 50 ; Base form(s) (MON_NAME for base species, then chance).
 
-    db SAVANNA ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
+    db DEEP_FOREST ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
     db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).

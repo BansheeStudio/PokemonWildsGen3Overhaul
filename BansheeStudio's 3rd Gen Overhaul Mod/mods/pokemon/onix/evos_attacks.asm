@@ -1,3 +1,4 @@
+	db EVOLVE_ITEM, MOOON_STONE, SNUBBULL
 	db EVOLVE_ITEM, SHINY_STONE, STEELIX
 	db 0 ; no more evolutions
 	db 1, HARDEN

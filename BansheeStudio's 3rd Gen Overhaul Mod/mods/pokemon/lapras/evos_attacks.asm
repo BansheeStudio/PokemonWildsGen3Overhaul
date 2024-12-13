@@ -1,3 +1,4 @@
+	db EVOLVE_ITEM, SHINY_STONE, KYOGRE
 	db 0 ; no more evolutions
 	db 1, GROWL
 	db 1, WATER_GUN

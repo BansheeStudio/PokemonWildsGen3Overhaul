@@ -1,3 +1,4 @@
+	db EVOLVE_ITEM, GRASS_STONE, CELEBI
 	db 0 ; no more evolutions
 	db 1, GUST
 	db 1, ABSORB

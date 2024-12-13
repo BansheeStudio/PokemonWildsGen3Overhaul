@@ -1,0 +1,24 @@
+	db 0 ; no more evolutions
+	db 1, MUD_SHOT
+	db 1, ANCIENTPOWER
+	db 1, LAVA_PLUME
+	db 1, SCARY_FACE
+	db 11, EARTH_POWER
+	db 13, ROAR
+	db 16, SWIFT
+	db 20, STRENGTH
+	db 23, IRON_TAIL
+	db 27, EARTHQUAKE
+	db 30, FIRE_PUNCH
+	db 33, REST
+	db 37, FLAMETHROWER
+	db 42, FISSURE
+	db 46, HYPER_BEAM
+	db 50, SUNNY_DAY
+	db 53, SNORE
+	db 57, ROCK_SLIDE
+	db 60, FIRE_BLAST
+	db 63, SOLARBEAM
+	db 67, ERUPTION
+	db 70, GIGA_IMPACT
+	db 0 ; no more level-up moves

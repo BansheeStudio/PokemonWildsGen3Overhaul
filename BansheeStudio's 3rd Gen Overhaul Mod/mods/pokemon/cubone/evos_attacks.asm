@@ -1,6 +1,5 @@
 	db EVOLVE_LEVEL, 28, MAROWAK
 	db EVOLVE_ITEM, DUSK_STONE, AMAROWAK
-	db EVOLVE_ITEM, SUN_STONE, HO-OH
 	db 0 ; no more evolutions
 	db 1, TAIL_WHIP
 	db 1, BONE_CLUB

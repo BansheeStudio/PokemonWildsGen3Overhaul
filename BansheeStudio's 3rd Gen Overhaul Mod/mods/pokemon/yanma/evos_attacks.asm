@@ -1,3 +1,4 @@
+	db EVOLVE_ITEM, SHINY_STONE, TREECKO
 	db EVOLVE_LEVEL, 30, YANMEGA
 	db 0 ; no more evolutions
 	db 1, QUICK_ATTACK

@@ -1,3 +1,4 @@
+	db EVOLVE_ITEM, SHINY_STONE, GROUDON
 	db EVOLVE_LEVEL, 20, MAGCARGO
 	db 0 ; no more evolutions
 	db 1, SMOG

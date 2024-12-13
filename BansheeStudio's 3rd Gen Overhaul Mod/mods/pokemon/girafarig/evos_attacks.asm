@@ -1,3 +1,4 @@
+	db EVOLVE_ITEM, MOON_STONE, SKITTY
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, CONFUSION
